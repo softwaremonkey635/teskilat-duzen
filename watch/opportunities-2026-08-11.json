@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-11",
+  "generated_at": "2026-08-11T13:44:32.725Z",
+  "opportunities": [
+    {
+      "title": "Defacto Öğrenci İndirimi (300-500 TL)",
+      "url": "https://biogrenci.com/firsat/defacto-ogrenci-indirimi",
+      "value_usd": 16,
+      "expires": "16.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Up to 500 TL off clothing purchases for students, significant savings on wardrobe."
+    },
+    {
+      "title": "Digiturk Yıldız Dolu Paket Öğrenci Fiyatı (199 TL/ay)",
+      "url": "https://biogrenci.com/firsat/digiturk-ogrenci-indirimi",
+      "value_usd": 75,
+      "expires": "22.08.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Annualized ~$75 value for sports/TV streaming including Süper Lig, F1, NBA."
+    },
+    {
+      "title": "Uption Kart ile Kafe/Restoran %20 Nakit İade",
+      "url": "https://biogrenci.com/firsat/uptiondan-ogrencilere-nakit-iade",
+      "value_usd": 30,
+      "expires": "01.10.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "20% cashback on dining spends, recurring savings for daily meals."
+    },
+    {
+      "title": "Ücretsiz ISIC Sanal Öğrenci Kartı (Akbank)",
+      "url": "https://biogrenci.com/firsat/universiteli-akbankli-ucretsiz-isic-sanal-ogrenci-karti",
+      "value_usd": 25,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Free internationally recognized student ID unlocking global discounts."
+    },
+    {
+      "title": "H&M Öğrenci Kuponları (300-500 TL)",
+      "url": "https://biogrenci.com/firsat/hm-ogrenci-indirimi",
+      "value_usd": 16,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Direct coupons for H&M purchases, useful for affordable fashion."
+    },
+    {
+      "title": "Yemeksepeti İlk Sipariş 270 TL İndirimi",
+      "url": "https://biogrenci.com/firsat/yemeksepeti-ogrenci-indirimi",
+      "value_usd": 8,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Large discount on first food delivery order, ideal for new users."
+    },
+    {
+      "title": "INSTREET Öğrenci İndirimi 1250 TL",
+      "url": "https://biogrenci.com/firsat/instreet-ogrenci-indirimi-indirim-kuponu",
+      "value_usd": 40,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Substantial fashion discount for style-conscious students."
+    },
+    {
+      "title": "FLO Öğrenci İndirimi 800 TL",
+      "url": "https://biogrenci.com/firsat/flo-ogrenci-indirimi",
+      "value_usd": 25,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Footwear and apparel savings from a major Turkish retailer."
+    },
+    {
+      "title": "S Sport Plus Yıllık Öğrenci Aboneliği 1.999 TL",
+      "url": "https://biogrenci.com/firsat/ssport-plus-ogrenci-indirimi",
+      "value_usd": 63,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Yearly access to EuroLeague, LaLiga, NBA, UFC etc. at student price."
+    },
+    {
+      "title": "OpenCorp – AI Competitor & Reddit Research",
+      "url": "https://opencorp.live/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Free tool to instantly find competitors and discussions for any product idea."
+    },
+    {
+      "title": "Earde – Community Platform for OSS Projects",
+      "url": "https://earde.com/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tool",
+      "status": "new",
+      "notes": "Connect a GitHub repo and get a free community space for open-source work."
+    },
+    {
+      "title": "Sqemo – Auto-Generated ERD Tool",
+      "url": "https://app.sqemo.com",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tool",
+      "status": "new",
+      "notes": "Free database diagram tool that generates column names, speeding schema design."
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-10",
+  "generated_at": "2026-08-10T18:26:48.351Z",
+  "opportunities": [
+    {
+      "title": "Defacto Öğrenci İndirimi (300-500 TL)",
+      "url": "https://biogrenci.com/firsat/defacto-ogrenci-indirimi",
+      "value_usd": 15,
+      "expires": "16.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "1500 TL+ alışverişte 300 TL, 2500 TL+ alışverişte 500 TL indirim; giyim bütçesini ciddi oranda düşürür."
+    },
+    {
+      "title": "Digiturk Yıldız Dolu Paket Öğrenci Fiyatı 199 TL/Ay",
+      "url": "https://biogrenci.com/firsat/digiturk-ogrenci-indirimi",
+      "value_usd": 72,
+      "expires": "22.08.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Süper Lig, Premier Lig, F1 ve daha fazlası dahil; yıllık ~72$ değerinde spor/ eğlence paketi."
+    },
+    {
+      "title": "Uption Kart ile Kafe/Restoran %20 Nakit İade",
+      "url": "https://biogrenci.com/firsat/uptiondan-ogrencilere-nakit-iade",
+      "value_usd": 0,
+      "expires": "01.10.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Günlük yeme-içme harcamalarında %20 geri kazanım; öğrenci bütçesine doğrudan katkı."
+    },
+    {
+      "title": "Ücretsiz ISIC Sanal Öğrenci Kartı (Akbank)",
+      "url": "https://biogrenci.com/firsat/universiteli-akbankli-ucretsiz-isic-sanal-ogrenci-karti",
+      "value_usd": 0,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Uluslararası geçerli öğrenci kimliği; dünyada binlerce indirime (uçak, müze, yazılım) erişim sağlar."
+    },
+    {
+      "title": "H&M Öğrenci Kuponu 300-500 TL",
+      "url": "https://biogrenci.com/firsat/hm-ogrenci-indirimi",
+      "value_usd": 15,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Uygulama/web üzerinden tüm alışverişlerde 300/500 TL indirim; kıyafet bütçesini hafifletir."
+    },
+    {
+      "title": "Muscent Öğrencilere %20 İndirim",
+      "url": "https://biogrenci.com/firsat/muscent-ogrenci-indirimi",
+      "value_usd": 0,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "50+ mağazada ve online %20 indirim; parfüm/kisisel bakım harcamalarını düşürür."
+    },
+    {
+      "title": "Yemeksepeti İlk Siparişe 270 TL İndirim",
+      "url": "https://biogrenci.com/firsat/yemeksepeti-ogrenci-indirimi",
+      "value_usd": 8,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "360 TL+ sepette 270 TL indirim; yemek masraflarında anlık büyük tasarruf."
+    },
+    {
+      "title": "INSTREET Öğrenci İndirimi 1250 TL",
+      "url": "https://biogrenci.com/firsat/instreet-ogrenci-indirimi-indirim-kuponu",
+      "value_usd": 38,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Moda/aksesuar alışverişinde 1250 TL kupon; gardrop yenileme için yüksek değerli fırsat."
+    },
+    {
+      "title": "FLO Öğrenci İndirimi 800 TL",
+      "url": "https://biogrenci.com/firsat/flo-ogrenci-indirimi",
+      "value_usd": 24,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Ayakkabı/aksesuar alışverişinde 800 TL indirim; günlük giyim ihtiyacını ucuzlatır."
+    },
+    {
+      "title": "S Sport Plus Yıllık 1.999 TL Öğrenci Paketi",
+      "url": "https://biogrenci.com/firsat/ssport-plus-ogrenci-indirimi",
+      "value_usd": 60,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "EuroLeague, LaLiga, NBA, UFC vb. tüm canlı spor içeriği yıllık ~60$; spor takibi için en uygun paket."
+    },
+    {
+      "title": "Django-Style Queries for SQLAlchemy (Open Source)",
+      "url": "https://github.com/ViAchKoN/sqlalchemy-query-manager",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "SQLAlchemy ile Django ORM benzeri sorgu yazımı; Python backend geliştiricileri için kod tekrarını azaltır."
+    },
+    {
+      "title": "OpenParser – Swappable OCR Models API",
+      "url": "https://www.openparser.dev",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tool",
+      "status": "new",
+      "notes": "Tek API üzerinden birden fazla OCR modeli; belge işleme/veri çıkarma projelerinde ücretsiz deneme ve entegrasyon kolaylığı."
+    }
+  ]
+}
