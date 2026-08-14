@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-13",
+  "generated_at": "2026-08-13T21:43:52.317Z",
+  "opportunities": [
+    {
+      "title": "Show HN: I built a multi-step API testing tool that's designed to be self-hosted",
+      "url": "https://github.com/test-fleet/control-server",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Free self-hosted API testing suite for backend practice and projects."
+    },
+    {
+      "title": "Show HN: DynaFX – Simulation meets knowledge graphs",
+      "url": "https://github.com/Achref-Yak/DynaFX",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Open-source simulation + knowledge graph framework for ML research."
+    },
+    {
+      "title": "Show HN: Multi-version management (by xlings) for DeepSeek Harness",
+      "url": "https://openxlings.github.io/xim-pkgindex/en/packages/dsh/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Version manager for DeepSeek AI models, handy for LLM experimentation."
+    },
+    {
+      "title": "Show HN: Bsdkrun – Instant MicroVMs/Unikernels for macOS and Linux",
+      "url": "https://github.com/tsirysndr/bsdkrun",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Lightweight microVM tool for fast kernel/OS testing on student laptops."
+    },
+    {
+      "title": "Show HN: Clixad – Free AI coding agent in the terminal, funded by an offerwall",
+      "url": "https://clixad.io/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Free terminal AI assistant for code generation and debugging."
+    },
+    {
+      "title": "Show HN: MLTraining Free AI/ML training resources for everyone",
+      "url": "https://mltraining.org/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "launch",
+      "status": "new",
+      "notes": "Curated free courses, tutorials, and datasets for ML learners."
+    },
+    {
+      "title": "Defacto'dan 300TL ve 500TL Öğrenci İndirimi!",
+      "url": "https://biogrenci.com/firsat/defacto-ogrenci-indirimi",
+      "value_usd": 16,
+      "expires": "16.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Up to 500 TL off clothing purchases, ~$16 value for student wardrobe."
+    },
+    {
+      "title": "Üniversiteli Akbanklı’ya özel Ücretsiz ISIC Sanal Öğrenci Kartı",
+      "url": "https://biogrenci.com/firsat/universiteli-akbankli-ucretsiz-isic-sanal-ogrenci-karti",
+      "value_usd": 25,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Free internationally recognized ISIC card (normally $25) for discounts worldwide."
+    },
+    {
+      "title": "Kampüs Kombinin INSTREET'te, 1250TL İndirimin Bi'öğrenci'de",
+      "url": "https://biogrenci.com/firsat/instreet-ogrenci-indirimi-indirim-kuponu",
+      "value_usd": 39,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "1250 TL (~$39) off streetwear at INSTREET, big savings on fashion."
+    },
+    {
+      "title": "FLO'dan Tüm Öğrencilere 800TL Öğrenci İndirimi",
+      "url": "https://biogrenci.com/firsat/flo-ogrenci-indirimi",
+      "value_usd": 25,
+      "expires": "31.12.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "800 TL (~$25) discount on shoes and accessories at FLO."
+    },
+    {
+      "title": "Yemeksepeti'den Tüm Öğrencilere 270 TL Öğrenci İndirimi!",
+      "url": "https://biogrenci.com/firsat/yemeksepeti-ogrenci-indirimi",
+      "value_usd": 8,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "270 TL (~$8) off first food delivery order, useful for busy study days."
+    },
+    {
+      "title": "Öğrencilere H&M Alışverişinde 300TL ve 500TL Kupon Kodu",
+      "url": "https://biogrenci.com/firsat/hm-ogrenci-indirimi",
+      "value_usd": 16,
+      "expires": "01.09.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Up to 500 TL (~$16) off H&M purchases via student coupon."
+    }
+  ]
+}
