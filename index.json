@@ -38,6 +38,16 @@
       "cost_usd": 0,
       "avg_accuracy": 0,
       "stories": 382,
+      "sections": 14
+    },
+    {
+      "date": "2026-08-15",
+      "issue": "33",
+      "url": "teskilat-duzen-2026-08-15.html",
+      "lang": "en",
+      "cost_usd": 0,
+      "avg_accuracy": 0,
+      "stories": 377,
       "sections": 14,
       "current": true
     }
