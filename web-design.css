@@ -1,0 +1,321 @@
+/* web-design.css — design system overrides layered on the vendored web_compiler output.
+   Uses the existing CSS custom properties (--paper/--ink/--red/--gold/--serif/--display/etc.).
+   Non-destructive: enhances, does not fight the vendored styles. */
+
+/* ============================ ENHANCED MASTHEAD ============================ */
+.masthead {
+  padding-bottom: 1.4rem;
+  border-bottom-width: 4px;
+  border-bottom-style: double;
+}
+.masthead h1 {
+  letter-spacing: .06em;
+}
+.masthead .accent {
+  text-shadow: 1px 1px 0 var(--red);
+}
+
+/* ============================ HERO / LEAD STORY ============================ */
+.front .lead {
+  position: relative;
+}
+.front .lead h2 {
+  font-size: clamp(1.9rem, 4vw, 3rem);
+  letter-spacing: -.01em;
+}
+.front .lead-art img {
+  max-height: 520px;
+  border-width: 0;
+  box-shadow: 0 4px 24px rgba(0,0,0,.12);
+}
+html[data-theme="dark"] .front .lead-art img {
+  box-shadow: 0 4px 24px rgba(0,0,0,.4);
+}
+.front-lede {
+  font-size: 1.12em;
+  line-height: 1.55;
+  color: var(--ink);
+  border-left: 3px solid var(--red);
+  padding-left: 1rem;
+}
+.front-overview-lead {
+  font-size: clamp(1.2rem, 1.1rem + .5vw, 1.5rem);
+}
+
+/* ============================ BRIEFING DIGEST GRID ============================ */
+.briefing-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0;
+}
+@media (min-width: 720px) {
+  .briefing-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .bi-item {
+    padding-right: 1rem;
+  }
+}
+.bi-item {
+  border-bottom: 1px solid var(--rule);
+  transition: background .15s ease;
+}
+.bi-item:hover {
+  background: var(--raise);
+}
+
+/* ============================ SECTION ENHANCEMENTS ============================ */
+.section-head {
+  border-bottom-width: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: var(--ink);
+  padding-bottom: .8rem;
+}
+.sec-rule {
+  width: 80px;
+  height: 4px;
+  background: var(--red);
+  border-radius: 2px;
+}
+.section-head h2 {
+  font-size: clamp(1.4rem, 2.8vw, 2.1rem);
+  letter-spacing: .04em;
+}
+
+/* ============================ STORY CARDS ============================ */
+.stories {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.4rem;
+}
+@media (min-width: 720px) {
+  .stories {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.8rem;
+  }
+}
+.card {
+  border-top: 3px solid var(--ink);
+  padding-top: .9rem;
+  transition: border-color .15s ease, transform .15s ease;
+}
+.card:hover {
+  border-top-color: var(--red);
+}
+.card h3 {
+  font-family: var(--display);
+  font-size: clamp(1.08rem, 1.4vw, 1.35rem);
+  line-height: 1.12;
+}
+.card-meta {
+  font-family: var(--sans);
+  font-size: .7rem;
+  letter-spacing: .03em;
+  color: var(--muted2);
+}
+.card-art img {
+  border-radius: 2px;
+}
+
+/* ============================ DEAL CARDS (opportunities section) ============================ */
+.deal-box {
+  border: 1px solid var(--gold);
+  background: var(--raise);
+  padding: .7rem .9rem;
+  margin: .6rem 0 1rem;
+  border-radius: 3px;
+  position: relative;
+}
+.deal-box:hover {
+  border-color: var(--red);
+}
+.deal-head {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem .9rem;
+  align-items: baseline;
+}
+.deal-value {
+  font-weight: 700;
+  color: var(--gold-text);
+  font-family: var(--mono);
+  font-size: .85rem;
+}
+.deal-expiry {
+  font-size: .78em;
+  color: var(--muted);
+}
+.deal-verdict {
+  font-family: var(--sans);
+  font-size: .7em;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--green);
+  margin-left: auto;
+}
+
+/* Value badge — colored by tier */
+.value-badge {
+  display: inline-block;
+  font-family: var(--mono);
+  font-size: .72rem;
+  font-weight: 700;
+  padding: .15rem .55rem;
+  border-radius: 3px;
+  line-height: 1.4;
+}
+.value-badge-high { /* > $20 */
+  background: var(--green);
+  color: var(--paper);
+}
+.value-badge-mid { /* $1-$20 */
+  background: var(--gold);
+  color: var(--paper);
+}
+.value-badge-free { /* $0 */
+  background: var(--muted);
+  color: var(--paper);
+  opacity: .7;
+}
+
+/* Expiry chips */
+.expiry-chip {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: .64rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  padding: .15rem .5rem;
+  border-radius: 3px;
+  line-height: 1.4;
+}
+.expiry-chip-urgent { /* imminent expiry */
+  background: var(--red);
+  color: var(--paper);
+}
+.expiry-chip-rolling { /* no fixed expiry */
+  background: transparent;
+  color: var(--muted);
+  border: 1px solid var(--rule);
+}
+
+/* ============================ CHIPS (fact-check stamps) ============================ */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  margin-top: .8rem;
+}
+.chip {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  font-size: .6rem;
+  font-weight: 700;
+  border: 1px solid var(--rule);
+  padding: .2rem .55rem;
+  border-radius: 2px;
+}
+.chip-ok { border-color: var(--green); color: var(--green); }
+.chip-bias { border-color: var(--gold); color: var(--gold-text); }
+
+/* ============================ STICKY NAV POLISH ============================ */
+.sticky-nav {
+  padding: .45rem 0;
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+html[data-theme="dark"] .sticky-nav {
+  background: rgba(18, 16, 14, .92);
+}
+html[data-theme="light"] .sticky-nav {
+  background: rgba(243, 236, 220, .92);
+}
+.sticky-nav .snav-links a {
+  transition: color .15s ease;
+}
+.sticky-nav .snav-links a:hover {
+  color: var(--red);
+}
+
+/* ============================ PAGE NAV (sub-pages) ============================ */
+.page-nav {
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+html[data-theme="dark"] .page-nav {
+  background: rgba(18, 16, 14, .92);
+}
+html[data-theme="light"] .page-nav {
+  background: rgba(243, 236, 220, .92);
+}
+
+/* ============================ TOC ENHANCEMENT ============================ */
+.toc-list li {
+  transition: background .15s ease;
+  padding: .45rem .3rem;
+  border-radius: 2px;
+}
+.toc-list li:hover {
+  background: var(--raise);
+}
+
+/* ============================ FOOTER ============================ */
+.site-foot {
+  border-top: 2px solid var(--ink);
+  margin-top: 2.5rem;
+  padding-top: 1.2rem;
+}
+
+/* ============================ DARK MODE OVERRIDES ============================ */
+html[data-theme="dark"] .card {
+  border-top-color: var(--muted);
+}
+html[data-theme="dark"] .card:hover {
+  border-top-color: var(--red);
+}
+html[data-theme="dark"] .deal-box {
+  background: var(--raise);
+  border-color: var(--gold);
+}
+html[data-theme="dark"] .front .lead-art img {
+  opacity: .92;
+}
+
+/* ============================ RESPONSIVE — SINGLE COLUMN < 720px ============================ */
+@media (max-width: 719px) {
+  .stories {
+    grid-template-columns: 1fr;
+  }
+  .briefing-list {
+    grid-template-columns: 1fr;
+  }
+  .masthead h1 {
+    font-size: clamp(1.6rem, 8vw, 2.4rem);
+  }
+  .front .lead h2 {
+    font-size: clamp(1.4rem, 6vw, 2rem);
+  }
+  .card h3 {
+    font-size: 1.05rem;
+  }
+  .sticky-nav .snav-links {
+    font-size: .6rem;
+  }
+  .deal-box {
+    padding: .5rem .7rem;
+  }
+  .toc-list {
+    columns: 1 !important;
+  }
+}
+
+/* ============================ PRINT ============================ */
+@media print {
+  .sticky-nav, .page-nav, .bottom-bar, .theme-btn, .progress {
+    display: none !important;
+  }
+  .card:hover { transform: none; }
+  body { background: white; color: black; }
+}

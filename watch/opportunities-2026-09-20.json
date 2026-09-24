@@ -1,0 +1,114 @@
+{
+  "date": "2026-09-20",
+  "generated_at": "2026-09-20T13:24:01.372Z",
+  "opportunities": [
+    {
+      "title": "Her Otobüs Biletinde Öğrencilere Net %10 İndirim!",
+      "url": "https://biogrenci.com/firsat/enuygun-ogrenci-indirim",
+      "value_usd": 5,
+      "expires": "11.10.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "10% off intercity bus tickets saves travel costs for students across Türkiye."
+    },
+    {
+      "title": "Digiturk Yıldız Dolu Paket Öğrencilere Sadece 199 TL/Ay!",
+      "url": "https://biogrenci.com/firsat/digiturk-ogrenci-indirimi",
+      "value_usd": 6,
+      "expires": "30.10.2026",
+      "section": "deals",
+      "status": "new",
+      "notes": "Affordable sports & entertainment streaming for students."
+    },
+    {
+      "title": "idefix'te Öğrenciliği Premium Yaşa!",
+      "url": "https://biogrenci.com/firsat/idefix-ogrenci-indirimi",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "Premium bookstore membership with free shipping and coffee for 1 TL/month."
+    },
+    {
+      "title": "Öğrencilere Özel 500 TL Kupon Kodu İndirimi!",
+      "url": "https://biogrenci.com/firsat/sahibinden-ogrenci-indirimi",
+      "value_usd": 16,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "500 TL off second-hand purchases on sahibinden.com."
+    },
+    {
+      "title": "Giyim & Aksesuarda Öğrencilere 750 TL’ye 250 TL İndirim",
+      "url": "https://biogrenci.com/firsat/n11-ogrenci-indirimi-giyim-aksesuar",
+      "value_usd": 8,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "250 TL discount on clothing & accessories over 750 TL spend."
+    },
+    {
+      "title": "Kamil Koç’tan Öğrencilere Özel %15’e Varan İndirim!",
+      "url": "https://biogrenci.com/firsat/kamil-koc-ogrenci-indirimi",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "Up to 15% off intercity bus travel with Kamil Koç."
+    },
+    {
+      "title": "TROY'dan Üniversite Öğrencilerine MacBook ve iPad Modellerinde %12 İndirime ek %10 Aksesuar İndirim Kodu!",
+      "url": "https://biogrenci.com/firsat/troy-ogrenci-indirimi",
+      "value_usd": 180,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "12% off MacBook/iPad plus 10% off accessories, big savings on Apple gear."
+    },
+    {
+      "title": "Yves Rocher'de Öğrencilere Özel Ekstra 100TL veya 250TL İNDİRİM!",
+      "url": "https://biogrenci.com/firsat/yves-rocher-ogrenci-indirimi",
+      "value_usd": 8,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "Extra 100-250 TL off cosmetics with free shipping."
+    },
+    {
+      "title": "Öğrencilere Özel Seçili Yenilenmiş Cihaz Modellerinde %15 Kupon Avantajı!",
+      "url": "https://biogrenci.com/firsat/mediamarkt-ogrencilere-indirim",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "deals",
+      "status": "new",
+      "notes": "15% off refurbished electronics at MediaMarkt."
+    },
+    {
+      "title": "Show HN: A free website grader that explains the fixes in plain English",
+      "url": "https://we.inc/tools/website-grader",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tool",
+      "status": "new",
+      "notes": "Free SEO & performance audit for student projects."
+    },
+    {
+      "title": "Show HN: WTF > Auto-check what your coding agent changed",
+      "url": "https://github.com/LinusInnovator/wtf",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tool",
+      "status": "new",
+      "notes": "Open-source diff viewer for AI coding agents, helps verify changes."
+    },
+    {
+      "title": "Show HN: Fluentry – local voice-to-text dictation for Linux, Wayland included",
+      "url": "https://fluentry.github.io/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tool",
+      "status": "new",
+      "notes": "Privacy-first offline dictation for Linux, useful for note-taking."
+    }
+  ]
+}

@@ -1,0 +1,389 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Opportunities · 2026-09-20</title>
+<script>
+(function () {
+  var t = null;
+  try { t = localStorage.getItem('td-theme'); } catch (e) {}
+  if (!t) { t = (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'; }
+  document.documentElement.setAttribute('data-theme', t);
+  document.documentElement.classList.add('js');
+})();
+</script>
+<style>
+:root {
+  color-scheme: light dark;
+  --paper: #f3ecdc; --ink: #171412; --red: #8e2a24; --gold: #9c8550;
+  --gold-text: #7a6620; --green: #3f6b4f; --muted: #57513f; --muted2: #8a7a5c;
+  --rule: #cbbfa6; --raise: #fbf6e8;
+  --serif: 'Source Serif 4', Georgia, 'Iowan Old Style', 'Palatino Linotype', Cambria, serif;
+  --display: 'Playfair Display', Georgia, serif;
+  --mono: 'DejaVu Sans Mono', 'Liberation Mono', Consolas, monospace;
+  --sans: 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
+}
+:root[data-theme="dark"] {
+  --paper: #12100e; --ink: #e8e2d0; --red: #d97a72; --gold: #b29a5e;
+  --gold-text: #b29a5e; --green: #7fae8f; --muted: #a29a85; --muted2: #a89a76;
+  --rule: #3a342a; --raise: #1c1915;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--serif); font-size: clamp(1rem, .9rem + .35vw, 1.125rem);
+  line-height: 1.45; text-rendering: optimizeLegibility;
+}
+a { color: var(--red); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--gold-text); outline-offset: 2px; }
+
+/* ============================ HEADER ============================ */
+.page-header {
+  text-align: center;
+  padding: 1.6rem 0 1.1rem;
+  border-bottom: 4px double var(--ink);
+  margin-bottom: .5rem;
+}
+.page-header .mast-sub {
+  font-family: var(--sans); letter-spacing: .3em; text-transform: uppercase;
+  font-size: .7rem; color: var(--muted); margin-bottom: .7rem;
+}
+.page-header h1 {
+  font-family: var(--display); font-size: clamp(2rem, 5.5vw, 3.9rem); font-weight: 800;
+  text-transform: uppercase; letter-spacing: .06em; margin: 0; line-height: 1.02;
+}
+.page-header h1 .accent { color: var(--red); text-shadow: 1px 1px 0 var(--red); }
+.page-header .tagline {
+  font-style: italic; color: var(--muted); margin: .55rem 0 .9rem; font-size: 1em;
+}
+.page-header .page-meta {
+  display: flex; justify-content: center; align-items: center; gap: 1.2rem; flex-wrap: wrap;
+  border-top: 1px solid var(--rule); padding-top: .7rem;
+  font-family: var(--mono); font-size: .7rem; color: var(--muted);
+}
+.theme-btn {
+  font: inherit; background: none; border: 1px solid var(--rule); color: var(--ink);
+  padding: .35rem .7rem; cursor: pointer; text-transform: uppercase; letter-spacing: .1em;
+  font-size: .68rem; min-height: 44px; min-width: 44px;
+}
+.theme-btn:hover { border-color: var(--red); color: var(--red); }
+
+/* ============================ SECTION HEAD ============================ */
+.section-head {
+  padding: 1.5rem 0 .8rem;
+  border-bottom: 3px solid var(--ink);
+  margin-bottom: 1.2rem;
+}
+.section-head .section-eyebrow {
+  font-family: var(--mono); text-transform: uppercase; letter-spacing: .18em;
+  font-size: .68rem; color: var(--muted2); margin-bottom: .6rem;
+}
+.section-head .sec-rule {
+  width: 80px; height: 4px; background: var(--red); border-radius: 2px; margin: 0 0 .55rem;
+}
+.section-head h2 {
+  font-family: var(--display); font-size: clamp(1.4rem, 2.8vw, 2.1rem);
+  text-transform: uppercase; letter-spacing: .04em; margin: 0;
+}
+
+/* ============================ DEAL CARD GRID ============================ */
+.deal-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+}
+@media (min-width: 720px) {
+  .deal-grid { grid-template-columns: repeat(2, 1fr); gap: 1.4rem; }
+}
+@media (min-width: 1024px) {
+  .deal-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+.deal-card {
+  border-top: 3px solid var(--ink);
+  padding: .9rem 0 0;
+  transition: border-color .15s ease;
+}
+.deal-card:hover { border-top-color: var(--red); }
+
+.deal-card-head {
+  display: flex; justify-content: space-between; align-items: center; margin-bottom: .4rem;
+}
+.deal-card-section {
+  font-family: var(--sans); text-transform: uppercase; letter-spacing: .14em;
+  font-size: .62rem; color: var(--muted); font-weight: 700;
+}
+
+/* Value badge */
+.value-badge {
+  display: inline-block; font-family: var(--mono); font-size: .72rem; font-weight: 700;
+  padding: .15rem .55rem; border-radius: 3px; line-height: 1.4;
+}
+.value-badge-high { background: var(--green); color: var(--paper); }
+.value-badge-mid { background: var(--gold); color: var(--paper); }
+.value-badge-free { background: var(--muted); color: var(--paper); opacity: .7; }
+
+.deal-card-title {
+  font-family: var(--display); font-size: clamp(1.05rem, 1.3vw, 1.25rem);
+  line-height: 1.15; margin: 0 0 .35rem;
+}
+.deal-card-title a { color: var(--ink); text-decoration: none; }
+.deal-card-title a:hover { color: var(--red); text-decoration-thickness: 1px; }
+
+.deal-card-meta {
+  display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin-bottom: .5rem;
+}
+
+/* Expiry chips */
+.expiry-chip {
+  display: inline-block; font-family: var(--sans); font-size: .64rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .08em; padding: .15rem .5rem;
+  border-radius: 3px; line-height: 1.4;
+}
+.expiry-chip-urgent { background: var(--red); color: var(--paper); }
+.expiry-chip-rolling { background: transparent; color: var(--muted); border: 1px solid var(--rule); }
+
+.deal-card-status {
+  font-family: var(--mono); font-size: .66rem; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--muted2);
+}
+
+.deal-card-notes {
+  font-size: .88em; line-height: 1.5; color: var(--muted); margin: 0;
+}
+
+/* ============================ FOOTER ============================ */
+.site-foot {
+  border-top: 2px solid var(--ink); margin-top: 2.5rem; padding: 1rem 0 4rem;
+  display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+  font-family: var(--mono); font-size: .66rem; text-transform: uppercase;
+  letter-spacing: .08em; color: var(--muted);
+}
+.site-foot a { color: var(--muted); }
+.site-foot a:hover { color: var(--red); }
+
+/* ============================ DARK MODE ============================ */
+html[data-theme="dark"] .deal-card { border-top-color: var(--muted); }
+html[data-theme="dark"] .deal-card:hover { border-top-color: var(--red); }
+html[data-theme="dark"] .page-header { border-bottom-color: var(--muted); }
+
+/* ============================ RESPONSIVE ============================ */
+@media (max-width: 719px) {
+  .deal-grid { grid-template-columns: 1fr; }
+  .page-header h1 { font-size: clamp(1.6rem, 8vw, 2.4rem); }
+}
+
+/* ============================ PRINT ============================ */
+@media print {
+  .theme-btn { display: none !important; }
+  body { background: white; color: black; }
+}
+</style>
+</head>
+<body>
+<div class="sheet" style="max-width:1180px; margin:0 auto; padding:0 clamp(.75rem,3vw,2rem);">
+
+  <header class="page-header">
+    <p class="mast-sub">Opportunity Scoreboard</p>
+    <h1>Opportunities<span class="accent"> · </span>2026-09-20</h1>
+    <p class="tagline">Deals, launches, grants &amp; freebies</p>
+    <div class="page-meta">
+      <span>12 opportunities</span>
+      <button type="button" class="theme-btn" id="themeToggle" aria-label="Toggle night ops">Night ops</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="section-head">
+      <div class="section-eyebrow">ALL OPPORTUNITIES · 12 ITEMS</div>
+      <div class="sec-rule"></div>
+      <h2>Opportunity Scoreboard</h2>
+    </div>
+    <div class="deal-grid">
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-mid">$5</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/enuygun-ogrenci-indirim">Her Otobüs Biletinde Öğrencilere Net %10 İndirim!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-urgent">ends 11.10.2026</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">10% off intercity bus tickets saves travel costs for students across Türkiye.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-mid">$6</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/digiturk-ogrenci-indirimi">Digiturk Yıldız Dolu Paket Öğrencilere Sadece 199 TL/Ay!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-urgent">ends 30.10.2026</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Affordable sports &amp; entertainment streaming for students.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-free">$0</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/idefix-ogrenci-indirimi">idefix'te Öğrenciliği Premium Yaşa!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Premium bookstore membership with free shipping and coffee for 1 TL/month.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-mid">$16</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/sahibinden-ogrenci-indirimi">Öğrencilere Özel 500 TL Kupon Kodu İndirimi!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">500 TL off second-hand purchases on sahibinden.com.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-mid">$8</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/n11-ogrenci-indirimi-giyim-aksesuar">Giyim &amp; Aksesuarda Öğrencilere 750 TL’ye 250 TL İndirim</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">250 TL discount on clothing &amp; accessories over 750 TL spend.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-free">$0</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/kamil-koc-ogrenci-indirimi">Kamil Koç’tan Öğrencilere Özel %15’e Varan İndirim!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Up to 15% off intercity bus travel with Kamil Koç.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-high">$180</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/troy-ogrenci-indirimi">TROY'dan Üniversite Öğrencilerine MacBook ve iPad Modellerinde %12 İndirime ek %10 Aksesuar İndirim Kodu!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">12% off MacBook/iPad plus 10% off accessories, big savings on Apple gear.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-mid">$8</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/yves-rocher-ogrenci-indirimi">Yves Rocher'de Öğrencilere Özel Ekstra 100TL veya 250TL İNDİRİM!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Extra 100-250 TL off cosmetics with free shipping.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">deals</span>
+      <span class="value-badge value-badge-free">$0</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/mediamarkt-ogrencilere-indirim">Öğrencilere Özel Seçili Yenilenmiş Cihaz Modellerinde %15 Kupon Avantajı!</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">15% off refurbished electronics at MediaMarkt.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">tool</span>
+      <span class="value-badge value-badge-free">$0</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://we.inc/tools/website-grader">Show HN: A free website grader that explains the fixes in plain English</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Free SEO &amp; performance audit for student projects.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">tool</span>
+      <span class="value-badge value-badge-free">$0</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://github.com/LinusInnovator/wtf">Show HN: WTF &gt; Auto-check what your coding agent changed</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Open-source diff viewer for AI coding agents, helps verify changes.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">tool</span>
+      <span class="value-badge value-badge-free">$0</span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://fluentry.github.io/">Show HN: Fluentry – local voice-to-text dictation for Linux, Wayland included</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Privacy-first offline dictation for Linux, useful for note-taking.</p>
+  </article>
+    </div>
+  </main>
+
+  <footer class="site-foot">
+    <span>Teşkilat-ı Düzen · 2026-09-20</span>
+    <a href="index.html">Archive</a>
+  </footer>
+
+</div>
+<script>
+(function () {
+  var btn = document.getElementById('themeToggle');
+  if (!btn) return;
+  btn.addEventListener('click', function () {
+    var html = document.documentElement;
+    var cur = html.getAttribute('data-theme') || 'dark';
+    var next = cur === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    try { localStorage.setItem('td-theme', next); } catch (e) {}
+    btn.textContent = next === 'dark' ? 'Night ops' : 'Day ops';
+  });
+  var cur = document.documentElement.getAttribute('data-theme');
+  if (btn) btn.textContent = cur === 'dark' ? 'Night ops' : 'Day ops';
+})();
+</script>
+</body>
+</html>
