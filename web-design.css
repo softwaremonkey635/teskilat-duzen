@@ -311,11 +311,78 @@ html[data-theme="dark"] .front .lead-art img {
   }
 }
 
+/* ============================ SYSTEMS OVERVIEW ============================ */
+.systems-overview {
+  margin: 1.5rem 0 2rem;
+  border-top: 2px solid var(--ink);
+  padding-top: 1rem;
+}
+.systems-head h2 {
+  font-family: var(--display);
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  margin: .3rem 0 0;
+}
+.systems-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+@media (min-width: 720px) {
+  .systems-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.2rem;
+  }
+}
+.systems-card {
+  display: flex;
+  flex-direction: column;
+  gap: .3rem;
+  border-top: 3px solid var(--ink);
+  padding: .7rem .15rem;
+  text-decoration: none;
+  color: var(--ink);
+  transition: border-color .15s ease, transform .15s ease;
+}
+.systems-card:hover {
+  border-top-color: var(--red);
+  transform: translateY(-2px);
+}
+.systems-card-label {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.1rem;
+  line-height: 1.2;
+}
+.systems-card:hover .systems-card-label {
+  color: var(--red);
+}
+.systems-card-desc {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: .64rem;
+  color: var(--muted);
+}
+.systems-card-date {
+  font-family: var(--mono);
+  font-size: .7rem;
+  color: var(--muted2);
+}
+html[data-theme="dark"] .systems-card {
+  border-top-color: var(--muted);
+}
+html[data-theme="dark"] .systems-card:hover {
+  border-top-color: var(--red);
+}
+
 /* ============================ PRINT ============================ */
 @media print {
   .sticky-nav, .page-nav, .bottom-bar, .theme-btn, .progress {
     display: none !important;
   }
   .card:hover { transform: none; }
+  .systems-card:hover { transform: none; }
   body { background: white; color: black; }
 }
