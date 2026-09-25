@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search · Teşkilat-ı Düzen</title>
+<style>
+:root{ color-scheme:light dark; --paper:#f3ecdc; --ink:#171412; --red:#8e2a24; --gold:#9c8550; --gold-text:#7a6620; --green:#3f6b4f; --muted:#57513f; --muted2:#8a7a5c; --rule:#cbbfa6; --raise:#fbf6e8;
+ --serif: Georgia,'Iowan Old Style','Palatino Linotype',Cambria,serif; --display: Georgia,'Iowan Old Style',serif; --mono:'DejaVu Sans Mono','Liberation Mono',Consolas,monospace; --sans:'Arial Narrow','Helvetica Neue',Arial,sans-serif; }
+:root[data-theme="dark"]{ --paper:#12100e; --ink:#e8e2d0; --red:#d97a72; --gold:#b29a5e; --gold-text:#b29a5e; --green:#7fae8f; --muted:#a29a85; --muted2:#a89a76; --rule:#3a342a; --raise:#1c1915; }
+</style>
+<script>(function(){var t=null;try{t=localStorage.getItem('td-theme')}catch(e){}if(!t){t=(window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches)?'dark':'light'}document.documentElement.setAttribute('data-theme',t)})();</script>
+<link rel="stylesheet" href="web-design.css">
+</head>
+<body class="search-page">
+<div class="sheet">
+  <header class="search-head">
+    <div class="eyebrow">Archive</div>
+    <h1>Search</h1>
+    <p class="search-tag">Every story in every issue.</p>
+  </header>
+  <div class="search-bar">
+    <input type="search" id="q" placeholder="Search titles, sections and text…" autocomplete="off" spellcheck="false" aria-label="Search all issues">
+    <select id="issue" aria-label="Filter by issue"><option value="">All issues</option></select>
+  </div>
+  <p class="search-count" id="count" role="status"></p>
+  <ul class="search-results" id="results"></ul>
+  <p class="search-empty" id="empty" hidden>No matches. Try a broader term.</p>
+  <p class="search-back"><a href="index.html">All issues &rarr;</a></p>
+</div>
+<script>
+
+(function () {
+  var q = document.getElementById('q');
+  var issueSel = document.getElementById('issue');
+  var out = document.getElementById('results');
+  var count = document.getElementById('count');
+  var empty = document.getElementById('empty');
+  var items = [], issues = [];
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) {
+      return c === '&' ? '&amp;' : c === '<' ? '&lt;' : c === '>' ? '&gt;' : '&quot;';
+    });
+  }
+  function escRe(s) { return s.replace(/[.*+?^(){}$|[\]\\]/g, '\\$&'); }
+  // FIX 2: the index is a plain JSON file, so the renderer re-checks the
+  // scheme anyway. Same allowlist as the builder; a bad scheme becomes '#'
+  // and a missing url becomes no link at all (never href="").
+  function hrefOf(u) {
+    var s = String(u == null ? '' : u).trim();
+    if (!s) return '';
+    if (/^https?:\/\//i.test(s) || /^\/\//.test(s)) return s;
+    if (/^[a-z][a-z0-9+.-]*:/i.test(s)) return '#';
+    return s;
+  }
+  function hl(text, toks) {
+    if (!toks.length) return esc(text);
+    var re = new RegExp('(' + toks.map(escRe).join('|') + ')', 'ig');
+    var buf = '', last = 0, m;
+    while ((m = re.exec(text)) !== null) {
+      buf += esc(text.slice(last, m.index)) + '<mark>' + esc(m[0]) + '</mark>';
+      last = m.index + m[0].length;
+    }
+    return buf + esc(text.slice(last));
+  }
+  function score(it, toks) {
+    var t = it.t.toLowerCase(), s = (it.s || '').toLowerCase(), x = (it.x || '').toLowerCase();
+    var total = 0;
+    for (var i = 0; i < toks.length; i++) {
+      var k = toks[i], hit = 0, at = t.indexOf(k);
+      if (at >= 0) hit += at === 0 ? 140 : 110;
+      if (s.indexOf(k) >= 0) hit += 45;
+      if (x.indexOf(k) >= 0) hit += 25;
+      if (!hit) return 0;
+      total += hit;
+    }
+    return total;
+  }
+  function render() {
+    var toks = q.value.trim().toLowerCase().split(/\s+/).filter(Boolean);
+    var f = issueSel.value;
+    if (!toks.length && !f) {
+      out.innerHTML = '';
+      empty.hidden = true;
+      count.textContent = items.length + ' stories · ' + issues.length + ' issues';
+      return;
+    }
+    var res = [], i, it;
+    for (i = 0; i < items.length; i++) {
+      it = items[i];
+      if (f && it.d !== f) continue;
+      var sc = toks.length ? score(it, toks) : 1;
+      if (sc) res.push([sc, it]);
+    }
+    res.sort(function (a, b) {
+      return b[0] - a[0] || String(b[1].d).localeCompare(String(a[1].d));
+    });
+    count.textContent = res.length + (res.length === 1 ? ' match' : ' matches');
+    empty.hidden = res.length > 0;
+    var html = [];
+    for (i = 0; i < res.length && i < 200; i++) {
+      it = res[i][1];
+      var href = hrefOf(it.u);
+      var open = href ? '<a href="' + esc(href) + '">' : '<span>';
+      var close = href ? '</a>' : '</span>';
+      html.push('<li>' + open + '<span class="r-title">' + hl(it.t, toks)
+        + '</span>' + close + '<div class="r-meta">' + esc(it.d || '')
+        + (it.s ? ' · ' + esc(it.s) : '') + '</div>'
+        + (it.x ? '<p class="r-snip">' + hl(it.x, toks) + '</p>' : '') + '</li>');
+    }
+    out.innerHTML = html.join('');
+  }
+  fetch('search-index.json')
+    .then(function (r) { return r.ok ? r.json() : Promise.reject(); })
+    .then(function (d) {
+      items = (d && d.items) || [];
+      issues = (d && d.issues) || [];
+      for (var i = 0; i < issues.length; i++) {
+        var o = document.createElement('option');
+        o.value = issues[i].date;
+        o.textContent = issues[i].date;
+        issueSel.appendChild(o);
+      }
+      count.textContent = items.length + ' stories · ' + issues.length + ' issues';
+      render();
+    })
+    .catch(function () { count.textContent = 'Search index unavailable.'; });
+  q.addEventListener('input', render);
+  issueSel.addEventListener('change', render);
+})();
+
+</script>
+</body>
+</html>

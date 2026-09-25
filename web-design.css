@@ -377,6 +377,251 @@ html[data-theme="dark"] .systems-card:hover {
   border-top-color: var(--red);
 }
 
+/* ===================== PREDICTIONS + CONTINUING THREADS ================== */
+.prediction-scorecard,
+.continuing-threads {
+  margin: 1.5rem 0 2rem;
+  border-top: 2px solid var(--ink);
+  padding-top: 1rem;
+}
+.block-head h2 {
+  font-family: var(--display);
+  font-size: clamp(1.1rem, 2vw, 1.5rem);
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  margin: .3rem 0 0;
+}
+.scorecard-rate {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .5rem;
+  margin: .7rem 0 .3rem;
+}
+.scorecard-num {
+  font-family: var(--display);
+  font-size: clamp(1.6rem, 4vw, 2.4rem);
+  font-weight: 700;
+  line-height: 1;
+  color: var(--red);
+}
+.scorecard-label {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .66rem;
+  color: var(--muted);
+}
+.scorecard-meta,
+.scorecard-roll {
+  font-family: var(--mono);
+  font-size: .7rem;
+  color: var(--muted2);
+}
+.scorecard-roll {
+  margin-bottom: .4rem;
+}
+.scorecard-open {
+  list-style: none;
+  margin: .5rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: .35rem;
+}
+.scorecard-open li {
+  border-left: 3px solid var(--ink);
+  padding: .15rem 0 .15rem .6rem;
+  font-size: .92rem;
+  line-height: 1.4;
+}
+.scorecard-due {
+  display: inline-block;
+  margin-right: .5rem;
+  font-family: var(--mono);
+  font-size: .64rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: var(--muted2);
+}
+.scorecard-none {
+  margin: .5rem 0 0;
+  font-family: var(--sans);
+  font-size: .8rem;
+  color: var(--muted);
+}
+.thread-list {
+  list-style: none;
+  margin: .6rem 0 0;
+  padding: 0;
+  display: grid;
+  gap: .3rem;
+}
+.thread-list li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .2rem .6rem;
+  border-bottom: 1px solid var(--rule);
+  padding-bottom: .25rem;
+}
+.thread-name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: .95rem;
+}
+.thread-count {
+  font-family: var(--mono);
+  font-size: .68rem;
+  color: var(--muted);
+}
+html[data-theme="dark"] .prediction-scorecard,
+html[data-theme="dark"] .continuing-threads {
+  border-top-color: var(--muted);
+}
+html[data-theme="dark"] .scorecard-open li {
+  border-left-color: var(--red);
+}
+
+/* ===================== CROSS-ISSUE SEARCH PAGE ========================== */
+/* search.html ships only the :root tokens inline; everything else lives
+   here so the page shares the house type scale with the rest of the site. */
+body.search-page {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: clamp(1rem, 0.9rem + 0.35vw, 1.125rem);
+  line-height: 1.45;
+}
+.search-page .sheet {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 1.5rem clamp(0.75rem, 3vw, 2rem) 5rem;
+}
+.search-page .eyebrow {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.72em;
+  color: var(--gold-text);
+  font-weight: 700;
+  text-align: center;
+}
+.search-page h1 {
+  font-family: var(--display);
+  font-size: clamp(1.8rem, 4vw, 2.8rem);
+  text-transform: uppercase;
+  text-align: center;
+  margin: 0.2rem 0;
+  letter-spacing: 0.03em;
+}
+.search-tag {
+  text-align: center;
+  font-style: italic;
+  color: var(--muted);
+  margin: 0.3rem 0 1.5rem;
+}
+.search-bar {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+  border-top: 3px solid var(--ink);
+  padding-top: 0.9rem;
+}
+.search-bar input[type="search"] {
+  flex: 1 1 16rem;
+  min-width: 0;
+  font: inherit;
+  font-size: 1.05rem;
+  color: var(--ink);
+  background: var(--raise);
+  border: 1px solid var(--rule);
+  border-radius: 0;
+  padding: 0.55rem 0.7rem;
+}
+.search-bar select {
+  flex: 0 0 auto;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--ink);
+  background: var(--raise);
+  border: 1px solid var(--rule);
+  border-radius: 0;
+  padding: 0.55rem 0.5rem;
+}
+.search-bar input[type="search"]:focus-visible,
+.search-bar select:focus-visible {
+  outline: 3px solid var(--gold-text);
+  outline-offset: 1px;
+  border-color: var(--red);
+}
+.search-count {
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  margin: 0.7rem 0 0.4rem;
+}
+.search-results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.search-results li {
+  border-top: 1px solid var(--rule);
+  padding: 0.75rem 0;
+}
+.search-results li:first-child { border-top: 3px solid var(--ink); }
+.search-results a {
+  color: var(--ink);
+  text-decoration: none;
+  display: block;
+}
+.search-results a:hover .r-title { color: var(--red); }
+.r-title {
+  display: block;
+  font-family: var(--display);
+  font-size: 1.08rem;
+  line-height: 1.3;
+}
+.r-meta {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--muted2);
+  margin-top: 0.2rem;
+}
+.r-snip {
+  font-size: 0.92rem;
+  color: var(--muted);
+  margin: 0.35rem 0 0;
+}
+.search-results mark {
+  background: var(--gold);
+  color: var(--ink);
+  padding: 0 0.1em;
+}
+.search-empty {
+  font-family: var(--sans);
+  color: var(--muted);
+  text-align: center;
+  padding: 2rem 0;
+}
+.search-back {
+  text-align: center;
+  margin-top: 2rem;
+}
+.search-back a {
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--red);
+  text-decoration: none;
+  border: 1px solid var(--rule);
+  padding: 0.35rem 0.8rem;
+}
+.search-back a:hover { border-color: var(--red); }
+html[data-theme="dark"] .search-results li:first-child {
+  border-top-color: var(--muted);
+}
+
 /* ============================ PRINT ============================ */
 @media print {
   .sticky-nav, .page-nav, .bottom-bar, .theme-btn, .progress {
