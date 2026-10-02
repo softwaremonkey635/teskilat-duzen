@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T22:33:18.345Z",
+  "new_count": 4,
+  "opportunities": [
+    {
+      "title": "Öğrencilere Ayakkabı & Çantada 3.000 TL’ye 500 TL İndirim ve %3 Geri Kazan Fırsatı",
+      "url": "https://biogrenci.com/firsat/n11-ogrenci-indirimi-ayakkabi-canta",
+      "value_usd": 15,
+      "expires": "rolling",
+      "section": "personal",
+      "status": "new",
+      "notes": "n11 öğrenci indirimi ile 3.000 TL üzeri alışverişte 500 TL tasarruf ve %3 nakit iade.",
+      "score": 45
+    },
+    {
+      "title": "View all tools",
+      "url": "https://studentdiscount.io/ai-study-tools/tools",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "personal",
+      "status": "new",
+      "notes": "Öğrenciler için doğrulanmış AI çalışma araçları ve indirimli erişim listesi.",
+      "score": 36
+    },
+    {
+      "title": "EMBO Doktora Sonrası Araştırma Bursları 2027 Yılı 1. Dönem Başvuruları Başladı",
+      "url": "https://tubitak.gov.tr/tr/duyuru/embo-doktora-sonrasi-arastirma-burslari-2027-yili-1-donem-basvurulari-basladi",
+      "value_usd": 3500,
+      "expires": "rolling",
+      "section": "grants",
+      "status": "new",
+      "notes": "TÜBİTAK üzerinden başvuru yapılan uluslararası araştırma bursu; TR öğrencileri için fon ve kariyer fırsatı.",
+      "score": 68
+    },
+    {
+      "title": "TEKNOFEST Güneydoğu Heyecanı Şanlıurfa'da Başladı",
+      "url": "https://www.gap.gov.tr/haber/teknofest-guneydogu-heyecani-sanliurfa-da-basladi/",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "grants",
+      "status": "new",
+      "notes": "Türkiye'nin en büyük öğrenci teknoloji yarışması TEKNOFEST bölge etkinliği; proje ve ödül fırsatı.",
+      "score": 38
+    }
+  ]
+}

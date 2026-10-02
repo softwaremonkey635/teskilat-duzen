@@ -482,6 +482,72 @@ html[data-theme="dark"] .scorecard-open li {
   border-left-color: var(--red);
 }
 
+/* ===================== TRENDS (velocity across issues) =================== */
+.entity-trends {
+  margin: 1.5rem 0 2rem;
+  border-top: 2px solid var(--ink);
+  padding-top: 1rem;
+}
+.trend-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: .6rem 0 0;
+  font-family: var(--sans);
+  font-size: .88rem;
+}
+.trend-table th,
+.trend-table td {
+  text-align: left;
+  border-bottom: 1px solid var(--rule);
+  padding: .3rem .6rem .3rem 0;
+  vertical-align: baseline;
+}
+.trend-table thead th {
+  font-family: var(--mono);
+  font-size: .62rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: var(--muted2);
+}
+.trend-name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: .95rem;
+}
+.trend-count {
+  font-family: var(--mono);
+  font-size: .68rem;
+  color: var(--muted);
+  white-space: nowrap;
+}
+.trend-delta {
+  font-family: var(--mono);
+  font-weight: 700;
+  white-space: nowrap;
+}
+.trend-label {
+  font-family: var(--mono);
+  font-size: .62rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
+.trend-up {
+  color: var(--red);
+}
+.trend-down {
+  color: var(--muted);
+}
+.trend-meta {
+  margin: .4rem 0 0;
+  font-family: var(--mono);
+  font-size: .66rem;
+  color: var(--muted2);
+}
+html[data-theme="dark"] .entity-trends {
+  border-top-color: var(--muted);
+}
+
 /* ===================== CROSS-ISSUE SEARCH PAGE ========================== */
 /* search.html ships only the :root tokens inline; everything else lives
    here so the page shares the house type scale with the rest of the site. */

@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>Opportunities · 2026-10-01</title>
+<script>
+(function () {
+  var t = null;
+  try { t = localStorage.getItem('td-theme'); } catch (e) {}
+  if (!t) { t = (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) ? 'dark' : 'light'; }
+  document.documentElement.setAttribute('data-theme', t);
+  document.documentElement.classList.add('js');
+})();
+</script>
+<style>
+:root {
+  color-scheme: light dark;
+  --paper: #f3ecdc; --ink: #171412; --red: #8e2a24; --gold: #9c8550;
+  --gold-text: #7a6620; --green: #3f6b4f; --muted: #57513f; --muted2: #8a7a5c;
+  --rule: #cbbfa6; --raise: #fbf6e8;
+  --serif: 'Source Serif 4', Georgia, 'Iowan Old Style', 'Palatino Linotype', Cambria, serif;
+  --display: 'Playfair Display', Georgia, serif;
+  --mono: 'DejaVu Sans Mono', 'Liberation Mono', Consolas, monospace;
+  --sans: 'Arial Narrow', 'Helvetica Neue', Arial, sans-serif;
+}
+:root[data-theme="dark"] {
+  --paper: #12100e; --ink: #e8e2d0; --red: #d97a72; --gold: #b29a5e;
+  --gold-text: #b29a5e; --green: #7fae8f; --muted: #a29a85; --muted2: #a89a76;
+  --rule: #3a342a; --raise: #1c1915;
+}
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0; background: var(--paper); color: var(--ink);
+  font-family: var(--serif); font-size: clamp(1rem, .9rem + .35vw, 1.125rem);
+  line-height: 1.45; text-rendering: optimizeLegibility;
+}
+a { color: var(--red); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--gold-text); outline-offset: 2px; }
+
+/* ============================ HEADER ============================ */
+.page-header {
+  text-align: center;
+  padding: 1.6rem 0 1.1rem;
+  border-bottom: 4px double var(--ink);
+  margin-bottom: .5rem;
+}
+.page-header .mast-sub {
+  font-family: var(--sans); letter-spacing: .3em; text-transform: uppercase;
+  font-size: .7rem; color: var(--muted); margin-bottom: .7rem;
+}
+.page-header h1 {
+  font-family: var(--display); font-size: clamp(2rem, 5.5vw, 3.9rem); font-weight: 800;
+  text-transform: uppercase; letter-spacing: .06em; margin: 0; line-height: 1.02;
+}
+.page-header h1 .accent { color: var(--red); text-shadow: 1px 1px 0 var(--red); }
+.page-header .tagline {
+  font-style: italic; color: var(--muted); margin: .55rem 0 .9rem; font-size: 1em;
+}
+.page-header .page-meta {
+  display: flex; justify-content: center; align-items: center; gap: 1.2rem; flex-wrap: wrap;
+  border-top: 1px solid var(--rule); padding-top: .7rem;
+  font-family: var(--mono); font-size: .7rem; color: var(--muted);
+}
+.theme-btn {
+  font: inherit; background: none; border: 1px solid var(--rule); color: var(--ink);
+  padding: .35rem .7rem; cursor: pointer; text-transform: uppercase; letter-spacing: .1em;
+  font-size: .68rem; min-height: 44px; min-width: 44px;
+}
+.theme-btn:hover { border-color: var(--red); color: var(--red); }
+
+/* ============================ SECTION HEAD ============================ */
+.section-head {
+  padding: 1.5rem 0 .8rem;
+  border-bottom: 3px solid var(--ink);
+  margin-bottom: 1.2rem;
+}
+.section-head .section-eyebrow {
+  font-family: var(--mono); text-transform: uppercase; letter-spacing: .18em;
+  font-size: .68rem; color: var(--muted2); margin-bottom: .6rem;
+}
+.section-head .sec-rule {
+  width: 80px; height: 4px; background: var(--red); border-radius: 2px; margin: 0 0 .55rem;
+}
+.section-head h2 {
+  font-family: var(--display); font-size: clamp(1.4rem, 2.8vw, 2.1rem);
+  text-transform: uppercase; letter-spacing: .04em; margin: 0;
+}
+
+/* ============================ DEAL CARD GRID ============================ */
+.deal-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.2rem;
+}
+@media (min-width: 720px) {
+  .deal-grid { grid-template-columns: repeat(2, 1fr); gap: 1.4rem; }
+}
+@media (min-width: 1024px) {
+  .deal-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+.deal-card {
+  border-top: 3px solid var(--ink);
+  padding: .9rem 0 0;
+  transition: border-color .15s ease;
+}
+.deal-card:hover { border-top-color: var(--red); }
+
+.deal-card-head {
+  display: flex; justify-content: space-between; align-items: center; margin-bottom: .4rem;
+}
+.deal-card-section {
+  font-family: var(--sans); text-transform: uppercase; letter-spacing: .14em;
+  font-size: .62rem; color: var(--muted); font-weight: 700;
+}
+
+/* Value badge */
+.value-badge {
+  display: inline-block; font-family: var(--mono); font-size: .72rem; font-weight: 700;
+  padding: .15rem .55rem; border-radius: 3px; line-height: 1.4;
+}
+.value-badge-high { background: var(--green); color: var(--paper); }
+.value-badge-mid { background: var(--gold); color: var(--paper); }
+.value-badge-free { background: var(--muted); color: var(--paper); opacity: .7; }
+
+/* Composite score badge (SPEC C2) */
+.deal-card-badges { display: inline-flex; gap: .35rem; align-items: center; }
+.score-badge {
+  display: inline-block; font-family: var(--mono); font-size: .72rem; font-weight: 700;
+  padding: .15rem .55rem; border-radius: 3px; line-height: 1.4;
+  text-transform: uppercase; letter-spacing: .04em;
+}
+.score-badge-high { background: var(--green); color: var(--paper); }
+.score-badge-mid { background: var(--gold); color: var(--paper); }
+.score-badge-low { background: var(--muted); color: var(--paper); opacity: .7; }
+
+.deal-card-title {
+  font-family: var(--display); font-size: clamp(1.05rem, 1.3vw, 1.25rem);
+  line-height: 1.15; margin: 0 0 .35rem;
+}
+.deal-card-title a { color: var(--ink); text-decoration: none; }
+.deal-card-title a:hover { color: var(--red); text-decoration-thickness: 1px; }
+
+.deal-card-meta {
+  display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin-bottom: .5rem;
+}
+
+/* Expiry chips */
+.expiry-chip {
+  display: inline-block; font-family: var(--sans); font-size: .64rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: .08em; padding: .15rem .5rem;
+  border-radius: 3px; line-height: 1.4;
+}
+.expiry-chip-urgent { background: var(--red); color: var(--paper); }
+.expiry-chip-rolling { background: transparent; color: var(--muted); border: 1px solid var(--rule); }
+
+.deal-card-status {
+  font-family: var(--mono); font-size: .66rem; text-transform: uppercase;
+  letter-spacing: .06em; color: var(--muted2);
+}
+
+.deal-card-notes {
+  font-size: .88em; line-height: 1.5; color: var(--muted); margin: 0;
+}
+
+/* ============================ FOOTER ============================ */
+.site-foot {
+  border-top: 2px solid var(--ink); margin-top: 2.5rem; padding: 1rem 0 4rem;
+  display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;
+  font-family: var(--mono); font-size: .66rem; text-transform: uppercase;
+  letter-spacing: .08em; color: var(--muted);
+}
+.site-foot a { color: var(--muted); }
+.site-foot a:hover { color: var(--red); }
+
+/* ============================ DARK MODE ============================ */
+html[data-theme="dark"] .deal-card { border-top-color: var(--muted); }
+html[data-theme="dark"] .deal-card:hover { border-top-color: var(--red); }
+html[data-theme="dark"] .page-header { border-bottom-color: var(--muted); }
+
+/* ============================ RESPONSIVE ============================ */
+@media (max-width: 719px) {
+  .deal-grid { grid-template-columns: 1fr; }
+  .page-header h1 { font-size: clamp(1.6rem, 8vw, 2.4rem); }
+}
+
+/* ============================ PRINT ============================ */
+@media print {
+  .theme-btn { display: none !important; }
+  body { background: white; color: black; }
+}
+</style>
+</head>
+<body>
+<div class="sheet" style="max-width:1180px; margin:0 auto; padding:0 clamp(.75rem,3vw,2rem);">
+
+  <header class="page-header">
+    <p class="mast-sub">Opportunity Scoreboard</p>
+    <h1>Opportunities<span class="accent"> · </span>2026-10-01</h1>
+    <p class="tagline">Deals, launches, grants &amp; freebies</p>
+    <div class="page-meta">
+      <span>4 opportunities · 4 new</span>
+      <button type="button" class="theme-btn" id="themeToggle" aria-label="Toggle night ops">Night ops</button>
+    </div>
+  </header>
+
+  <main>
+    <div class="section-head">
+      <div class="section-eyebrow">ALL OPPORTUNITIES · 4 ITEMS · 4 NEW</div>
+      <div class="sec-rule"></div>
+      <h2>Opportunity Scoreboard</h2>
+    </div>
+    <div class="deal-grid">
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">personal</span>
+      <span class="deal-card-badges">
+        <span class="score-badge score-badge-mid">score 45</span>
+        <span class="value-badge value-badge-mid">$15</span>
+      </span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://biogrenci.com/firsat/n11-ogrenci-indirimi-ayakkabi-canta">Öğrencilere Ayakkabı &amp; Çantada 3.000 TL’ye 500 TL İndirim ve %3 Geri Kazan Fırsatı</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">n11 öğrenci indirimi ile 3.000 TL üzeri alışverişte 500 TL tasarruf ve %3 nakit iade.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">personal</span>
+      <span class="deal-card-badges">
+        <span class="score-badge score-badge-low">score 36</span>
+        <span class="value-badge value-badge-free">$0</span>
+      </span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://studentdiscount.io/ai-study-tools/tools">View all tools</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Öğrenciler için doğrulanmış AI çalışma araçları ve indirimli erişim listesi.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">grants</span>
+      <span class="deal-card-badges">
+        <span class="score-badge score-badge-mid">score 68</span>
+        <span class="value-badge value-badge-high">$3500</span>
+      </span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://tubitak.gov.tr/tr/duyuru/embo-doktora-sonrasi-arastirma-burslari-2027-yili-1-donem-basvurulari-basladi">EMBO Doktora Sonrası Araştırma Bursları 2027 Yılı 1. Dönem Başvuruları Başladı</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">TÜBİTAK üzerinden başvuru yapılan uluslararası araştırma bursu; TR öğrencileri için fon ve kariyer fırsatı.</p>
+  </article>
+
+  <article class="deal-card">
+    <div class="deal-card-head">
+      <span class="deal-card-section">grants</span>
+      <span class="deal-card-badges">
+        <span class="score-badge score-badge-low">score 38</span>
+        <span class="value-badge value-badge-free">$0</span>
+      </span>
+    </div>
+    <h3 class="deal-card-title"><a href="https://www.gap.gov.tr/haber/teknofest-guneydogu-heyecani-sanliurfa-da-basladi/">TEKNOFEST Güneydoğu Heyecanı Şanlıurfa'da Başladı</a></h3>
+    <div class="deal-card-meta">
+      <span class="expiry-chip expiry-chip-rolling">rolling</span>
+      <span class="deal-card-status">new</span>
+    </div>
+    <p class="deal-card-notes">Türkiye'nin en büyük öğrenci teknoloji yarışması TEKNOFEST bölge etkinliği; proje ve ödül fırsatı.</p>
+  </article>
+    </div>
+  </main>
+
+  <footer class="site-foot">
+    <span>Teşkilat-ı Düzen · 2026-10-01</span>
+    <a href="index.html">Archive</a>
+  </footer>
+
+</div>
+<script>
+(function () {
+  var btn = document.getElementById('themeToggle');
+  if (!btn) return;
+  btn.addEventListener('click', function () {
+    var html = document.documentElement;
+    var cur = html.getAttribute('data-theme') || 'dark';
+    var next = cur === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    try { localStorage.setItem('td-theme', next); } catch (e) {}
+    btn.textContent = next === 'dark' ? 'Night ops' : 'Day ops';
+  });
+  var cur = document.documentElement.getAttribute('data-theme');
+  if (btn) btn.textContent = cur === 'dark' ? 'Night ops' : 'Day ops';
+})();
+</script>
+</body>
+</html>

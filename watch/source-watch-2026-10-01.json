@@ -1,0 +1,2825 @@
+{
+  "date": "2026-10-01",
+  "generated_at": "2026-10-01T22:30:58.443Z",
+  "analysis": {
+    "overview": "The Economics & Money cluster shows persistent inflation anxiety with items like Prices Aren't Dropping and Why Europe's GDP Growth Is Crippling Its Economy. Political Economy & Left Analysis pairs this with institutional distrust through Zohran Announces Zionist Indoctrination Program and The UK doesn't need an IMF bailout. Content creators also warn that How the AI boom could make you poorer while discussing Deplatforming Works (Against the Left).\n\nTürkiye News & Politics and Türkiye Economy & Finance dominate the regional coverage with Ali Babacan and Fatih Altaylı discussing the crisis and fund victims. Mehmet Şimşek’s role faces scrutiny in Mehmet Şimşek’in Otonomi İllüzyonu! alongside market analysis in Piyasa Hattı. Historical archives resurface through Papa Suikasti: KGB, Bulgaristan ve Mehmet Ali Ağca Gerçeği and Erol Mütercimler’s commentary on the Norway fund.\n\nTechnology coverage shifts from hardware to infrastructure risks, highlighted by Why are AI data centers using so much electricity? and Windows is losing users FAST. News & Geopolitics reports Elon Musk turned rural internet into a $770 Million Payday and details the Cornell Seven case loophole. Developer Tools & Tech Deep Dives notes a resignation from Anthropic and a claim that a 50 year old military secret solved agent prompt injection.\n\nPhilosophy, Rationality & Ideas explores time and infinity while Privacy, Security & Surveillance asks How Many Cameras See You Every Day?. Psychology & Mental Health examines sports betting risks and masking behaviors. Media Commentary & Satire rounds out the week with reviews of Meta Ray-Ban smart glasses and discussions on Aribert Heim.",
+    "themes": [
+      "Prices remain high as Europe GDP growth fails to reverse the cost of living crisis.",
+      "Zohran Mamdani faces criticism for funding Zionist organizations and echoing neoliberal rhetoric.",
+      "Ali Babacan and Fatih Altaylı discuss fund victims and the crisis turning point for Türkiye.",
+      "AI data centers consume significant electricity while Windows loses users to alternatives.",
+      "AI face cloning makes digital scams harder to spot according to Renée DiResta.",
+      "Mehmet Şimşek’s autonomy is exaggerated in recent Turkish economic commentary."
+    ],
+    "watch": [
+      "Monitor the outcome of the Cornell Seven case loophole discussion in News & Geopolitics.",
+      "Track whether UK IMF bailout concerns resurface after this week's analysis.",
+      "Watch for updates on the Türkiye Okul Gıdası implementation and canteen status.",
+      "Follow the Anthropic resignation fallout in Developer Tools & Tech Deep Dives.",
+      "Check if the AI election poll data shifts before the November vote.",
+      "Observe the Special Operations bill passage effects in Trinidad & Tobago."
+    ]
+  },
+  "clusters": [
+    {
+      "cluster_id": "health-fitness",
+      "name": "health-fitness",
+      "items": [
+        {
+          "source_id": "dougsharpe",
+          "source_name": "Doug Sharpe",
+          "title": "He Found Him In Real Life #funfact",
+          "url": "https://www.youtube.com/shorts/XRKPB30CEr4",
+          "kind": "short",
+          "summary_lines": [
+            "In 2009 a man lost an online knife fight in Counter Strike and spent 7 months hunting down his opponent in real life for revenge."
+          ],
+          "why": "A concrete timeline of online-to-offline escalation from a 2009 gaming rage incident.",
+          "spicy": true,
+          "published": "2026-10-01T17:14:26+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FXRKPB30CEr4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "dougsharpe",
+          "source_name": "Doug Sharpe",
+          "title": "Microsoft Wanted You To \"Bing It\" #funfact",
+          "url": "https://www.youtube.com/shorts/iFi-1nmEQvM",
+          "kind": "short",
+          "summary_lines": [
+            "Microsoft launched the \"BING IT ON\" campaign to try to convince people to switch from Google to Bing after Bing's release."
+          ],
+          "why": "Shows Microsoft's aggressive brand-challenge tactic against Google's dominance.",
+          "spicy": false,
+          "published": "2026-09-30T16:00:16+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FiFi-1nmEQvM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "doctormike",
+          "source_name": "Doctor Mike",
+          "title": "Doctor Reacts To \"Strange Addictions\"",
+          "url": "https://www.youtube.com/watch?v=1-Skt7coSZ4",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is just Patreon/community links and a promo for The Professional's Media Academy."
+          ],
+          "why": "Source contains no extractable content about \"Strange Addictions\", only promotional material.",
+          "spicy": false,
+          "published": "2026-09-30T18:38:48+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F1-Skt7coSZ4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "doctormike",
+          "source_name": "Doctor Mike",
+          "title": "Was this the right decision?",
+          "url": "https://www.youtube.com/shorts/fxxEO0qprik",
+          "kind": "short",
+          "summary_lines": [
+            "An uncontacted Amazon tribe was found naked except for rope tied around penises to stomachs for protection from vines/thorns; they have no agriculture, stones, or metal; a native anthropologist pleaded \"Please put down your weapons\" in a broken dialect; narco traffickers with machine guns and Chinese logging companies are the real threats, and in 5 years they could be murdered."
+          ],
+          "why": "Rare footage of uncontacted people and the ethical dilemma of publishing it vs. protecting them.",
+          "spicy": true,
+          "published": "2026-09-29T19:57:19+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FfxxEO0qprik%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "doctormike",
+          "source_name": "Doctor Mike",
+          "title": "Doctor Reacts To Hilarious Simpsons Medical Scenes",
+          "url": "https://www.youtube.com/watch?v=PcrYalz1n0w",
+          "kind": "video",
+          "summary_lines": [
+            "A jagged metal Krusty-O could cause Boerhaave's syndrome (esophageal tear from violent vomiting); \"chewable Prozac for kids\" doesn't exist; the Simpsons OR scene skips surgical timeout, patient verification, and sterile field protocol; Homer eats a hot dog mid-operation."
+          ],
+          "why": "Fact-checks iconic Simpsons medical gags with real clinical terminology.",
+          "spicy": true,
+          "published": "2026-09-27T14:00:34+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FPcrYalz1n0w%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "movementbydavid",
+          "source_name": "MovementbyDavid",
+          "title": "Insufficient feet? Try this! #ad",
+          "url": "https://www.youtube.com/shorts/6zglfVH03Pc",
+          "kind": "short",
+          "summary_lines": [
+            "Promo for Peluva shoes with code STAYFLEXY for a discount; description is mostly affiliate links and newsletter signup."
+          ],
+          "why": "Source is an ad with no fitness content beyond the product pitch.",
+          "spicy": false,
+          "published": "2026-10-01T16:05:08+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2F6zglfVH03Pc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "movementbydavid",
+          "source_name": "MovementbyDavid",
+          "title": "Stretching Random People Ep 8 #stayflexy",
+          "url": "https://www.youtube.com/shorts/6JX-mnr4X_U",
+          "kind": "short",
+          "summary_lines": [
+            "3-step flexibility routine: (1) static stretch, flat back, bend knee, shift hips, 30 reps; (2) active stretch, lift body up, 10 reps; (3) passive stretch, flex quad 30 seconds; then reset nervous system with twist/pause/sink into forward fold."
+          ],
+          "why": "A concrete mobility protocol that produced immediate forward-fold improvement on a test subject.",
+          "spicy": false,
+          "published": "2026-09-28T19:09:36+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2F6JX-mnr4X_U%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "jeffnippard",
+          "source_name": "Jeff Nippard",
+          "title": "Peptides Are Insane",
+          "url": "https://www.youtube.com/watch?v=H6SiAe-VObA",
+          "kind": "video",
+          "summary_lines": [
+            "1 in 8 US adults use fat-loss peptides; semaglutide (Ozempic/Wegovy) is a GLP-1 peptide injected into fat, oral version degraded by stomach acid; it travels to pancreas/stomach/brain activating GLP-1 receptors; BPC-157 is the \"Wolverine\" injury-healing peptide; epitalon is the anti-aging peptide; peptides are short amino-acid chains, not steroids or stimulants."
+          ],
+          "why": "A biochemistry-backed breakdown of which peptide claims hold up and which don't.",
+          "spicy": true,
+          "published": "2026-09-28T15:30:01+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FH6SiAe-VObA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "renaissanceperiodization",
+          "source_name": "Renaissance Periodization",
+          "title": "Nobody's Impressed by Your Half Reps",
+          "url": "https://www.youtube.com/shorts/6l_aT2hBiIo",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description only promotes the RP Hypertrophy App and channel membership with Dr. Mike Israetel."
+          ],
+          "why": "Source contains no extractable training content, just app promo.",
+          "spicy": false,
+          "published": "2026-10-01T19:00:21+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2F6l_aT2hBiIo%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "renaissanceperiodization",
+          "source_name": "Renaissance Periodization",
+          "title": "What Alcohol Actually Does to Your Recovery",
+          "url": "https://www.youtube.com/shorts/tc_CF2pvisw",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description only promotes the RP Hypertrophy App and channel membership."
+          ],
+          "why": "Source contains no extractable content about alcohol and recovery, just app promo.",
+          "spicy": false,
+          "published": "2026-10-01T13:00:24+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2Ftc_CF2pvisw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "squatuniversity",
+          "source_name": "Squat University",
+          "title": "Her Favorite Squat Variation Hits DIFFERENT!💥",
+          "url": "https://www.youtube.com/shorts/-NvY-XuNZJw",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript and no description, no extractable content."
+          ],
+          "why": "Source is empty; nothing to distill.",
+          "spicy": false,
+          "published": "2026-09-28T13:32:21+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F-NvY-XuNZJw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "1 in 8 US adults use fat-loss peptides — Jeff Nippard breaks down semaglutide, BPC-157, epitalon with biochemistry",
+        "Uncontacted Amazon tribe found naked with rope-tied penises, no metal/agriculture — narco traffickers and Chinese loggers threaten them within 5 years",
+        "Simpsons medical gags fact-checked: Boerhaave's syndrome from metal Krusty-O, chewable Prozac for kids doesn't exist, zero surgical timeout"
+      ]
+    },
+    {
+      "cluster_id": "news-politics",
+      "name": "news-politics",
+      "items": [
+        {
+          "source_id": "moreperfectunion",
+          "source_name": "More Perfect Union",
+          "title": "How Elon Musk Turned Rural Internet Into A $770 Million Payday",
+          "url": "https://www.youtube.com/watch?v=LQYnlg4pO9o",
+          "kind": "video",
+          "summary_lines": [
+            "$40 billion was supposed to be spent on rural internet; a huge chunk was redirected to Starlink, yielding Musk a $770 million payday while Louisiana kids still can't do homework and businesses lack reliable connection.",
+            "No transcript available; facts drawn from description only."
+          ],
+          "why": "The $770 million figure and the $40 billion rural broadband promise give a concrete anchor for the Starlink redirect story.",
+          "spicy": true,
+          "published": "2026-10-01T14:30:28+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FLQYnlg4pO9o%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vox_cornell",
+          "source_name": "Vox",
+          "title": "The loophole at the center of the Cornell Seven case",
+          "url": "https://www.youtube.com/shorts/Z4j6XPqTAGE",
+          "kind": "short",
+          "summary_lines": [
+            "A former Cornell student alleges seven fraternity members sexually assaulted her in 2024; she reported to campus police but no criminal charges were filed.",
+            "Link to full conversation on Today, Explained podcast at vox.com."
+          ],
+          "why": "The 'Cornell Seven' case highlights a legal loophole that left campus assault allegations without criminal consequences.",
+          "spicy": true,
+          "published": "2026-10-01T20:13:16+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FZ4j6XPqTAGE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vox_horse_wearable",
+          "source_name": "Vox",
+          "title": "New wearable tech could make horse racing safer",
+          "url": "https://www.youtube.com/shorts/zFw_t55m-kY",
+          "kind": "short",
+          "summary_lines": [
+            "Dr. Sara Langsam, equine veterinarian and chair of the AAEP Racing Committee, spoke at Belmont Park about wearable sensors (Garmin, StrideSafe) creating a horse's 'running fingerprint' to detect gait changes before injuries become catastrophic.",
+            "No transcript available; facts drawn from description only."
+          ],
+          "why": "Wearable biometric sensors for horses represent a concrete safety innovation in a sport with high fatality rates.",
+          "spicy": false,
+          "published": "2026-10-01T13:32:34+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FzFw_t55m-kY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vox_horse_two_athletes",
+          "source_name": "Vox",
+          "title": "The two athletes in every horse race",
+          "url": "https://www.youtube.com/watch?v=B9tbTY6dtG8",
+          "kind": "video",
+          "summary_lines": [
+            "11 horses died at Churchill Downs in 2025, up from 6 the previous year; Santa Anita recorded its 30th fatality since end of December; jockey heart rates hit 170-190 bpm (~95% max).",
+            "Jockey ReyLu Gutiérrez has started in 6,000+ races; Michaela Keener is a jockey health researcher at University of Kentucky.",
+            "Garmin and StrideSafe wearable sensors identify a horse's 'running fingerprint', healthy gait baseline, and flag deviations to catch microfractures before they become catastrophic.",
+            "Catastrophic fractures often start as tiny microfractures building up over time; daily wearable use could prevent significant injury and improve return-to-performance prognosis."
+          ],
+          "why": "Concrete fatality numbers and biometric specifics make the case for wearable tech in horse racing tangible.",
+          "spicy": true,
+          "published": "2026-10-01T12:00:35+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FB9tbTY6dtG8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vox_democrats_2026",
+          "source_name": "Vox",
+          "title": "Democrats could win 2026 and still lose the bigger fight | America, Actually",
+          "url": "https://www.youtube.com/watch?v=zLK4HT6Ksec",
+          "kind": "video",
+          "summary_lines": [
+            "Sarah Longwell, publisher of The Bulwark and author of 'How to Eat an Elephant: One Voter at a Time,' argues Democrats could win the House in November but draw wrong lessons, backlash against Trump isn't enthusiasm for Democrats.",
+            "Conversation recorded live at Texas Tribune Festival in Austin; Longwell's origin story includes trying to primary Donald Trump in 2018 with Bill Crystal, approaching Mark Cuban, Larry Hogan, Adam Kinzinger, Will Hurd.",
+            "Longwell's focus group origin: flying to New Hampshire to research whether a Republican electorate cared about the same things she did."
+          ],
+          "why": "The 'backlash ≠ enthusiasm' framing is a concrete warning for Democrats heading into 2026 midterms.",
+          "spicy": true,
+          "published": "2026-09-29T14:00:18+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FzLK4HT6Ksec%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vox_trauma",
+          "source_name": "Vox",
+          "title": "The dark side of modern therapy culture | The Gray Area",
+          "url": "https://www.youtube.com/watch?v=JysbLAm7uL4",
+          "kind": "video",
+          "summary_lines": [
+            "Catherine Liu's book 'Traumatized: The New Politics of Public Suffering' traces the 'trauma script' to late 19th century 'railway spine' diagnosis of British businessmen shaken by new railway technology, an inadvertent invention of psychotherapy tied to litigation.",
+            "Liu argues commodified trauma sharing objectifies the self, alienates from own experience, and undermines democratic debate and class struggle.",
+            "Harvard Crimson students were taught the personal essay must be a trauma story, turning suffering into a credential."
+          ],
+          "why": "The railway spine origin story reframes modern trauma culture as a legal/medical invention, not a natural human response.",
+          "spicy": true,
+          "published": "2026-09-28T12:00:39+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FJysbLAm7uL4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vicenews_ai_clone",
+          "source_name": "VICE News",
+          "title": "They used AI to clone his boss's face.",
+          "url": "https://www.youtube.com/shorts/F2Ifbm11mE4",
+          "kind": "short",
+          "summary_lines": [
+            "Renée DiResta discusses how AI face cloning makes digital scams harder to spot.",
+            "No transcript available; description only."
+          ],
+          "why": "AI face cloning is a concrete, growing scam vector worth tracking.",
+          "spicy": false,
+          "published": "2026-10-01T20:30:38+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FF2Ifbm11mE4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "vicenews_sshq",
+          "source_name": "VICE News",
+          "title": "I Don't See Anybody in Charge Here | w/Renée DiResta on AI, Election Interference & Propaganda",
+          "url": "https://www.youtube.com/watch?v=QIvzICF0O8A",
+          "kind": "video",
+          "summary_lines": [
+            "Renée DiResta (Georgetown associate research professor, author of 'Invisible Rulers: The People Who Turn Lies into Reality') warns America may be returning to pre-2016 election state with fewer safeguards and no one clearly in charge.",
+            "Topics covered: Russian election operations, Chinese and Iranian influence campaigns, Stanford Internet Observatory, Election Integrity Partnership, Cambridge Analytica, 'ampliganda,' AI-generated scams, algorithms deciding what millions see.",
+            "Key claim: 'Free Speech Does Not Mean Free Reach', algorithms gatekeep what content gets visibility."
+          ],
+          "why": "DiResta's warning about returning to pre-2016 conditions with fewer safeguards is a concrete election-security concern for 2026 midterms.",
+          "spicy": true,
+          "published": "2026-10-01T16:47:43+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FQIvzICF0O8A%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "visualpolitik",
+          "source_name": "VisualPolitik EN",
+          "title": "Iran And The Houthis Are Closing In On Saudi Oil",
+          "url": "https://www.youtube.com/watch?v=7ySrVS-ZELs",
+          "kind": "video",
+          "summary_lines": [
+            "Iran and the Houthis closing in on Saudi oil.",
+            "No transcript available; description contains only promo links (VisualFaktory finance gift, Patreon)."
+          ],
+          "why": "Iran-Houthi pressure on Saudi oil infrastructure is a live geopolitical risk.",
+          "spicy": false,
+          "published": "2026-10-01T12:00:31+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2F7ySrVS-ZELs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bbcnews_pike",
+          "source_name": "BBC News",
+          "title": "Christa Pike in critical condition after surviving two lethal injections. #BBCNews",
+          "url": "https://www.youtube.com/shorts/V3DWgT-FT5I",
+          "kind": "short",
+          "summary_lines": [
+            "Christa Pike is alive right now, receiving life-saving medical care; prognosis unclear.",
+            "Minimal transcript snippet; no further context available."
+          ],
+          "why": "Christa Pike surviving two lethal injections is a rare and striking death-penalty development.",
+          "spicy": true,
+          "published": "2026-10-01T20:29:14+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FV3DWgT-FT5I%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "11 horses died at Churchill Downs in 2025, up from 6; Santa Anita's 30th fatality since end of December",
+        "Renée DiResta warns America returning to pre-2016 election state with fewer safeguards and no one in charge",
+        "A former Cornell student alleges seven fraternity members sexually assaulted her in 2024; no criminal charges filed"
+      ]
+    },
+    {
+      "cluster_id": "philosophy",
+      "name": "philosophy",
+      "items": [
+        {
+          "source_id": "talefoundry",
+          "source_name": "Tale Foundry",
+          "title": "The Amazing Digital Circus is Real",
+          "url": "https://www.youtube.com/watch?v=_8u2_B5WRmY",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is just credits (writer Zachary Davis, director Benjamin Cook, art director Owen Fowkes), a free playlist link, and Epidemic Sound music attribution."
+          ],
+          "why": "A video with no extractable substance, only production credits and a link.",
+          "spicy": false,
+          "published": "2026-09-28T16:00:16+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2F_8u2_B5WRmY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "aperturethinking",
+          "source_name": "Aperture",
+          "title": "Block Universe Theory: Is Time Just a Loaf of Bread?",
+          "url": "https://www.youtube.com/shorts/PawO17_6aUM",
+          "kind": "short",
+          "summary_lines": [
+            "Spacetime as a loaf of bread: every slice is a separate moment and a full snapshot of the entire universe at one instant.",
+            "Under block universe theory past, present, and future exist together as one static unchanging four-dimensional block; nothing is being created or erased as time moves forward.",
+            "Traces to Einstein 1905 (no universal now) and philosopher Hilary Putnam 1967 (past and future as real as the present moment)."
+          ],
+          "why": "A vivid, quotable metaphor that makes a real physics-philosophy claim accessible in seconds.",
+          "spicy": true,
+          "published": "2026-10-01T16:00:26+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FPawO17_6aUM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "aperturethinking",
+          "source_name": "Aperture",
+          "title": "Everything We Don't Know About Infinity",
+          "url": "https://www.youtube.com/watch?v=ZuLFnZatZSs",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description frames infinity as the point where classical physics, human intuition, and formal logic collapse, listing chapter topics (Spinoza's God, time as 4th dimension, eternity's horrors) without giving substantive content."
+          ],
+          "why": "A long video whose actual arguments are behind a paywall or unavailable transcript.",
+          "spicy": false,
+          "published": "2026-10-01T09:54:19+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FZuLFnZatZSs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "aperturethinking",
+          "source_name": "Aperture",
+          "title": "The theory of time that proves your past self still exists",
+          "url": "https://www.youtube.com/watch?v=Hv7f1bedXOE",
+          "kind": "video",
+          "summary_lines": [
+            "In 1905 Einstein showed there is no universal now; in 1967 Hilary Putnam argued that if there is no shared present, past and future are as real as this moment, the block universe theory.",
+            "Description chapter markers: The River is Wrong, Block Universe, Why We See It Wrong, Time Travel This is Not, Future Certain.",
+            "Soar flights promo: new members get $25 off first flight."
+          ],
+          "why": "Same block-universe claim as the Shorts video but with more chapter structure; no transcript to extract the actual argument from.",
+          "spicy": false,
+          "published": "2026-09-27T16:00:08+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FHv7f1bedXOE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "schooloflife",
+          "source_name": "The School of Life",
+          "title": "Why We Go Cold On Our Partners",
+          "url": "https://www.youtube.com/shorts/1byF6MPfXhM",
+          "kind": "short",
+          "summary_lines": [
+            "Going cold on partners is a sign not of stopped caring but of being somewhere deep down furious or hurt.",
+            "Further-reading quote: the path to coldness starts with full affection, then prioritizing work, checking phones, not wanting to hear how their day went."
+          ],
+          "why": "A compact emotional diagnosis that reframes coldness as unresolved anger.",
+          "spicy": true,
+          "published": "2026-09-30T13:00:08+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F1byF6MPfXhM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "schooloflife",
+          "source_name": "The School of Life",
+          "title": "The Lessons we Learn in Love",
+          "url": "https://www.youtube.com/watch?v=3_uOA2K78M8",
+          "kind": "video",
+          "summary_lines": [
+            "The video posits ~30 key relationship lessons, each taking at least eight months to several years or decades to master.",
+            "Specific lessons stated: Always speak up when undervalued; Never try to persuade anyone to love you; Don't set out to fix anyone's childhood; If something breaks down once, chances of it working a second time are beyond minimal.",
+            "Analogy: becoming a great violinist with six lessons, mastering javelin after four throws; most people have only two or three partners before marriage. Named durations: Caitlyn 4.5 years, Jonathan 6 months, Roshin 3 years, Weiiwi 20 years."
+          ],
+          "why": "A concrete syllabus of emotional education with named examples and timelines.",
+          "spicy": true,
+          "published": "2026-09-30T13:00:07+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2F3_uOA2K78M8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "schooloflife",
+          "source_name": "The School of Life",
+          "title": "What Is It to Be Emotionally Mature",
+          "url": "https://www.youtube.com/shorts/Cc1C7u8FdE8",
+          "kind": "short",
+          "summary_lines": [
+            "Emotional maturity includes realizing with dark humor that we are idiots now, were idiots then, and will be idiots tomorrow.",
+            "Other markers: shedding pride, acknowledging the body's influence on mind (despair from needing orange juice or missing sleep), respecting diplomacy, accepting others are just as easily hurt.",
+            "Feeling carefree at being strange; public opinion matters less once you've seen the shallowness of crowds."
+          ],
+          "why": "A punchy checklist that reframes maturity as humility and bodily awareness, not stoicism.",
+          "spicy": true,
+          "published": "2026-09-27T13:00:02+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FCc1C7u8FdE8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "extraandrewism",
+          "source_name": "Extra Andrewism",
+          "title": "The Making of a Police State",
+          "url": "https://www.youtube.com/watch?v=Mlb2EwatnnI",
+          "kind": "video",
+          "summary_lines": [
+            "Trinidad & Tobago's Special Operations bill passed in the Senate in the dead of night before the 50th Republic Day.",
+            "An earlier ISO bill would have replaced the state of emergency with legislation stripping rights on a geographic basis, letting the PM dictate which areas police/military could occupy; that bill failed.",
+            "Transcript cuts off mid-sentence ('since it e'); the full argument about the new bill is unavailable."
+          ],
+          "why": "A real-time political analysis of a bill whose details are still emerging.",
+          "spicy": true,
+          "published": "2026-10-01T19:30:16+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FMlb2EwatnnI%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "portalvideo",
+          "source_name": "Portal",
+          "title": "TAM BİR P*Ç 😈 (açık ara en karizmatik psikopat)",
+          "url": "https://www.youtube.com/watch?v=b-B0gAf6VLA",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is a Turkish-language video with a Better Call Saul spoiler warning and a Sorbil education platform promo (discount code portal20)."
+          ],
+          "why": "No extractable substance, just a sponsor link and chapter markers.",
+          "spicy": false,
+          "published": "2026-09-30T16:16:37+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Fb-B0gAf6VLA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "~30 relationship lessons each taking 8 months to decades, with named examples (Caitlyn 4.5 yrs, Jonathan 6 mo, Roshin 3 yrs, Weiiwi 20 yrs)",
+        "Emotional maturity: we are idiots now, were idiots then, will be idiots tomorrow — plus despair from needing orange juice",
+        "Trinidad & Tobago Special Operations bill passed at night before 50th Republic Day; earlier ISO bill would have let PM designate police-occupied zones"
+      ]
+    },
+    {
+      "cluster_id": "privacy-security",
+      "name": "privacy-security",
+      "items": [
+        {
+          "source_id": "protonprivacy",
+          "source_name": "Proton",
+          "title": "How Many Cameras See You Every Day?",
+          "url": "https://www.youtube.com/shorts/OtuuEL7CMeE",
+          "kind": "short",
+          "summary_lines": [
+            "No camera-count facts: the transcript is a transcript-API sales pitch and the description only lists Proton links."
+          ],
+          "why": "The available source gives no camera-count fact to use.",
+          "spicy": false,
+          "published": "2026-10-01T21:00:33+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FOtuuEL7CMeE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "protonprivacy",
+          "source_name": "Proton",
+          "title": "This is Why You Use Qubes-OS",
+          "url": "https://www.youtube.com/shorts/IECH4DxDUdU",
+          "kind": "short",
+          "summary_lines": [
+            "No Qubes-OS facts: the transcript is a transcript-API sales pitch and the description only lists Proton links."
+          ],
+          "why": "The available source gives no Qubes-OS fact to use.",
+          "spicy": false,
+          "published": "2026-09-30T16:00:07+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FIECH4DxDUdU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "networkchuck",
+          "source_name": "NetworkChuck",
+          "title": "openAI is coming for grok and Jev",
+          "url": "https://www.youtube.com/watch?v=BeNxDM6XJK4",
+          "kind": "video",
+          "summary_lines": [
+            "OpenAI DevDay 2026 had 20+ announcements; the live stream separates features usable now, features still rolling out, and hype.",
+            "Dots is described as OpenAI's new always-on agents; the stream also names Grok Bot, GPT-6.1 Sol, GPT-6 Astra Ultrafast, Decisions API, TypeSafe Jev, ChatGPT Pro 500, Codex cloud, and Agents API computer use.",
+            "A full Jev video is promised for Monday. [no transcript]"
+          ],
+          "why": "It gives a fast map of OpenAI DevDay 2026 names and which features are usable now versus hype.",
+          "spicy": true,
+          "published": "2026-09-29T20:22:12+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FBeNxDM6XJK4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        }
+      ],
+      "picks": [
+        "OpenAI DevDay 2026: 20+ announcements, Dots, GPT-6.1 Sol, Decisions API",
+        "NetworkChuck live stream separates usable now DevDay features from hype"
+      ]
+    },
+    {
+      "cluster_id": "psychology",
+      "name": "psychology",
+      "items": [
+        {
+          "source_id": "healthygamer",
+          "source_name": "HealthyGamerGG",
+          "title": "We Have To Talk About Sports Betting",
+          "url": "https://www.youtube.com/watch?v=DfekhsobiaA",
+          "kind": "video",
+          "summary_lines": [
+            "Description says Dr. K discusses gambling, sports betting, and prediction markets; no transcript available for extraction."
+          ],
+          "why": "Sports betting and prediction markets are expanding legally; understanding the psychology matters.",
+          "spicy": false,
+          "published": "2026-10-01T19:47:48+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FDfekhsobiaA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "healthygamer",
+          "source_name": "HealthyGamerGG",
+          "title": "Why Masking Gets Called Fake",
+          "url": "https://www.youtube.com/shorts/ne2ZqsYwVS4",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description is promo links for HG Coaching and Dr. K's meditation/ADHD video collection."
+          ],
+          "why": "Masking is a real coping cost for neurodivergent people; the title hints at a relevant discussion.",
+          "spicy": false,
+          "published": "2026-10-01T15:00:12+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Fne2ZqsYwVS4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "healthygamer",
+          "source_name": "HealthyGamerGG",
+          "title": "The Risk of a Broken Heart for a Man",
+          "url": "https://www.youtube.com/shorts/chnc5MHPSBg",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description is promo links for HG Coaching and Dr. K's video library."
+          ],
+          "why": "Male heartbreak risk is under-discussed in clinical settings.",
+          "spicy": false,
+          "published": "2026-09-30T22:00:22+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2Fchnc5MHPSBg%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "healthygamer",
+          "source_name": "HealthyGamerGG",
+          "title": "What Comedians Get Right About Mental Health Trauma",
+          "url": "https://www.youtube.com/watch?v=TNdNVXYwK7A",
+          "kind": "video",
+          "summary_lines": [
+            "Dr. Alo Kenoja, Harvard-trained psychiatrist, uses a \"shattered crystal\" analogy for dissociative identity disorder: trauma fractures personality along fault lines, unlike normal role-switching where facets stay connected.",
+            "Harvard mentor quote: \"I believe in multiple personalities in the same way that I believe in aliens... statistically yes... but I never believe anyone who says they've seen one.\"",
+            "Video covers DID, bipolar disorder, isolation-triggered shame as survival mechanism, antidepressant brain mechanisms; segments on Taylor Tomlinson, Neal Brennan, Tom Segura, Drew Lynch, Mae Martin.",
+            "Offers a simple test for knowing when you need more support than friends can give; frames \"just observe your feelings with curiosity\" as a trainable skill."
+          ],
+          "why": "Comedy clips make psychiatry accessible; the shattered-crystal analogy is a memorable way to explain DID dissociation.",
+          "spicy": true,
+          "published": "2026-09-30T15:00:07+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FTNdNVXYwK7A%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "anapsychology",
+          "source_name": "Psychology with Dr. Ana",
+          "title": "Researchers studied how Clavicular hijacked our attention (hint: by playing us)",
+          "url": "https://www.youtube.com/watch?v=kzYOJ9I87Fw",
+          "kind": "video",
+          "summary_lines": [
+            "Study used public media traces, platform snapshots, and public visibility indicators to examine how niche masculinity/self-optimization culture went mainstream.",
+            "\"Diagnostic masculinity\" centers on naming, ranking, and promising to correct bodily deficiency; converts rejection/loneliness into a readable system that intensifies shame and bodily surveillance.",
+            "Clavicular rose to popularity early 2026 via series of controversial moments and mainstream media coverage, not one viral hit; vernacular: ascension, mogging, sub5, PSL.",
+            "Strategy: coded vernacular with a \"maxing suffix\" applied to any context; sponsor Hume Pod claims 98% accuracy vs medical scans for body composition."
+          ],
+          "why": "Looks-maxing culture is entering mainstream vocabulary; the diagnostic-masculinity frame explains why men buy into it.",
+          "spicy": true,
+          "published": "2026-09-30T18:00:11+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FkzYOJ9I87Fw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "charismaoncommand",
+          "source_name": "Charisma on Command",
+          "title": "6 Mindsets That Make People Respect You During Conflict",
+          "url": "https://www.youtube.com/watch?v=2-BjkO6Br_E",
+          "kind": "video",
+          "summary_lines": [
+            "Based on The Gentlemen scene: Colin Farrell's boxing coach apologizes to a criminal organization for his students' robbery, demonstrating 5 charismatic mindsets in under 60 seconds.",
+            "Mindset 1: \"No matter what, I will be okay\", flips threat to challenge; Mindset 2: \"I care more about my character than my reputation.\"",
+            "Coach distinguishes explanation from excuse: \"they've had hard lives\" followed by \"they're my lads, my responsibility\", owns the outcome.",
+            "Quote: \"I can return your goods, but I can't return the inconvenience, the time, the headache\", acknowledges irreparable harm."
+          ],
+          "why": "The apology framework applies directly to workplace and relationship conflicts where ego wants to deflect.",
+          "spicy": false,
+          "published": "2026-09-28T18:00:19+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2F2-BjkO6Br_E%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "nevzattarhan",
+          "source_name": "Prof. Dr. Nevzat Tarhan",
+          "title": "#Shorts Kin tutan biri misiniz? @EKOTURKTV",
+          "url": "https://www.youtube.com/shorts/bT3PT5BR4QQ",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description is in Turkish, promo for channel and charity foundation."
+          ],
+          "why": "Turkish-language content on grudges/forgiveness; no extractable specifics.",
+          "spicy": false,
+          "published": "2026-10-01T15:35:01+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FbT3PT5BR4QQ%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "nevzattarhan",
+          "source_name": "Prof. Dr. Nevzat Tarhan",
+          "title": "#Shorts Kıskançlık gerçekten sevginin göstergesi mi",
+          "url": "https://www.youtube.com/shorts/neC3E1o7YqQ",
+          "kind": "short",
+          "summary_lines": [
+            "Transcript in Turkish: jealousy is confused with love in TV series; strong emotions (jealousy, revenge, hatred) are foregrounded, and people who can't question these emotions get mentally occupied; claims society is culturally invaded via media.",
+            "Description notes channel covers behavior science to family structure; all revenue donated to Nevzat Nermin Tarhan Human Values and Mental Health Foundation."
+          ],
+          "why": "Media-psychology claim about cultural invasion via TV emotional framing is a testable hypothesis.",
+          "spicy": false,
+          "published": "2026-09-30T17:30:32+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FneC3E1o7YqQ%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "drtraceymarks",
+          "source_name": "Dr. Tracey Marks",
+          "title": "Check Instead of Track",
+          "url": "https://www.youtube.com/shorts/D_PmO6OgZjU",
+          "kind": "short",
+          "summary_lines": [
+            "Tracking = continuous monitoring of every face, expression, pause, tone shift; Checking = brief glance at natural pauses (after a point, topic change, direct response) then back to conversation.",
+            "Checking gives the signals that actually matter and lets attention stay on the conversation instead of running a second-by-second emotional readout."
+          ],
+          "why": "A practical reframe for meeting fatigue and social anxiety; costs nothing to apply.",
+          "spicy": false,
+          "published": "2026-09-30T06:00:22+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FD_PmO6OgZjU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "drtraceymarks",
+          "source_name": "Dr. Tracey Marks",
+          "title": "Why the One Annoyed Face Is the One That Rides Home With You",
+          "url": "https://www.youtube.com/shorts/tEhyLPto1Bc",
+          "kind": "short",
+          "summary_lines": [
+            "Visual working memory studies: angry/fearful faces are remembered better than neutral or happy ones; attention system prioritizes safety- or standing-relevant signals.",
+            "One ambiguous negative moment outweighs 20 warm reactions in evening recall; recognizing the bias helps stop one moment from standing in for the whole evening."
+          ],
+          "why": "Explains why a single critical comment ruins an otherwise good day, and how to interrupt it.",
+          "spicy": false,
+          "published": "2026-09-29T17:10:48+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FtEhyLPto1Bc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "katimorton",
+          "source_name": "Kati Morton",
+          "title": "5 signs of Dependent Personality Disorder",
+          "url": "https://www.youtube.com/shorts/fFaYuT4ou3E",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description is null."
+          ],
+          "why": "Dependent Personality Disorder is commonly mislabeled as \"clingy\"; signs would be useful.",
+          "spicy": false,
+          "published": "2026-09-30T23:21:27+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FfFaYuT4ou3E%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "katimorton",
+          "source_name": "Kati Morton",
+          "title": "This is what Dependent Personality Disorder feels like",
+          "url": "https://www.youtube.com/shorts/J98-nWAOk3g",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description is null."
+          ],
+          "why": "Same as above, no extractable content without transcript.",
+          "spicy": false,
+          "published": "2026-09-30T19:09:36+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FJ98-nWAOk3g%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "drramani",
+          "source_name": "Dr. Ramani",
+          "title": "Dr. Ramani on Taylor Shift's \"Patient Zero\"...",
+          "url": "https://www.youtube.com/shorts/TcOoNXoQJkg",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description says Dr. Ramani reacts to Taylor Swift's \"Patient Zero\" making her blood run cold and a scene capturing a tactic common in narcissistic relationships."
+          ],
+          "why": "Taylor Swift's \"Patient Zero\" went viral; Dr. Ramani's narcissistic-relationship lens is widely followed.",
+          "spicy": false,
+          "published": "2026-09-30T21:56:10+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FTcOoNXoQJkg%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": []
+    },
+    {
+      "cluster_id": "science",
+      "name": "science",
+      "items": [
+        {
+          "source_id": "professordave",
+          "source_name": "Professor Dave Explains",
+          "title": "Terrence Howard vs. The Universe",
+          "url": "https://www.youtube.com/watch?v=dEkRKy9bJdE",
+          "kind": "video",
+          "summary_lines": [
+            "Podcast episode titled «Terrence Howard on actual age of the universe» on «the rich reporter»; only ~5,000 views, published ~12 days before Professor Dave's reaction.",
+            "Boot.dev sponsorship: use code PROFESSORDAVE for 25% off first year on annual plan, 30-day no-questions-asked money back guarantee.",
+            "Dave promises to debunk pseudoscience about cosmology and the age of the universe, warning Howard «doesn't understand middle school level science concepts»."
+          ],
+          "why": "Howard's pseudoscience claims about the universe's age are a recurring target; Dave's debunking gives viewers concrete science corrections.",
+          "spicy": false,
+          "published": "2026-09-30T14:00:22+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FdEkRKy9bJdE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "professordave",
+          "source_name": "Professor Dave Explains",
+          "title": "Latin Vocabulary in Law",
+          "url": "https://www.youtube.com/watch?v=uoPRB6WNM0k",
+          "kind": "video",
+          "published": "2026-09-28T14:00:09+00:00",
+          "summary_lines": [
+            "Tutorial covers 40+ Latin legal phrases pronounced with accurate Latin phonetics: mens rea, sub poena, alibi, ignorantia legis non excusat, condicio sine qua non, inter alia, quid pro quo, bona fide, de minimis non curat lex, affidavit, in personam, persona non grata, ab initio, a priori, a posteriori, de jure, res nullius, de facto, ex post facto, in loco parentis, pendente lite, a fortiori, per incuriam, res ipsa loquitur, consensus nudum, pactum ex gratia, ad substantiam, in absentia, aliud pro alio, modus operandi, ultra vires, corpus delicti, locus in quo, in camera, in curia, non sequitur, primus inter pares, non plus ultra, caveat emptor, quantum meruit, in dubio pro reo, dura lex sed lex, excusatio non petita, accusatio manifesta.",
+            "Script by Patrizia Farina, Professor of Italian at Western Connecticut State University and Purchase College.",
+            "Explains that jurisprudence derives from Latin iuris prudentia and that Roman law underpins modern legal terminology."
+          ],
+          "why": "A dense reference list of Latin legal phrases with correct pronunciation, useful for law students and trivia buffs.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FuoPRB6WNM0k%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "kurzgesagt",
+          "source_name": "Kurzgesagt – In a Nutshell",
+          "title": "Your Brain on Magic Mushrooms",
+          "url": "https://www.youtube.com/shorts/b1EMX3wyqCY",
+          "kind": "short",
+          "published": "2026-09-28T14:00:34+00:00",
+          "summary_lines": [
+            "No transcript available; description states magic mushrooms temporarily change how brain parts communicate, loosening reality-constructing filters.",
+            "Psilocybin is being trialed in medical settings with controlled doses for depression and PTSD.",
+            "Sources link: sites.google.com/view/kgs-tiktok-sources."
+          ],
+          "why": "Short-form science on psilocybin's neural mechanism and therapeutic trials, relevant as psychedelic research accelerates.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Fb1EMX3wyqCY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "teded",
+          "source_name": "TED-Ed",
+          "title": "6 ways to be more persuasive",
+          "url": "https://www.youtube.com/watch?v=G3hXvByzLHs",
+          "kind": "video",
+          "published": "2026-10-01T15:00:32+00:00",
+          "summary_lines": [
+            "No transcript available; description identifies this as Episode 9 of animated series «Public Speaking 101», an 11-episode course.",
+            "Directed by Tolga Yıldız, Kozmonot Animation Studio.",
+            "Covers strategies to persuade an audience to accept and understand your argument."
+          ],
+          "why": "Persuasion techniques from TED-Ed's structured public-speaking series, applicable for anyone needing to argue ideas clearly.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FG3hXvByzLHs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "teded",
+          "source_name": "TED-Ed",
+          "title": "Why are AI data centers using so much electricity? - Sajan Saini",
+          "url": "https://www.youtube.com/watch?v=z3Y-gsBKChc",
+          "kind": "video",
+          "published": "2026-09-29T15:00:44+00:00",
+          "summary_lines": [
+            "No transcript available; description states since 2019 over 1,000 warehouse campuses have appeared worldwide, each covering nearly 100,000 square meters, using as much water as a small town and as much electricity as a small city.",
+            "Lesson by Sajan Saini, directed by Vicente Numpaque, Dr3i Studio.",
+            "Made possible in collaboration with FUTUR-IC at MIT."
+          ],
+          "why": "Concrete numbers on AI data center scale, 100,000 sq m, town-level water, city-level power, make the energy footprint tangible.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Fz3Y-gsBKChc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "scishow",
+          "source_name": "SciShow",
+          "title": "Ancient Octopuses Were MUCH Bigger Than We Thought",
+          "url": "https://www.youtube.com/watch?v=JpR3oeTlzos",
+          "kind": "video",
+          "published": "2026-10-01T17:00:38+00:00",
+          "summary_lines": [
+            "No transcript available; description claims Cretaceous Period boasted the biggest octopuses and possibly the biggest invertebrates of all time.",
+            "Hosted by Savannah Geary (they/them).",
+            "Patreon support at $8/month keeps SciShow free."
+          ],
+          "why": "Prehistoric octopus size claims challenge what we think we know about invertebrate evolution.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FJpR3oeTlzos%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "scishow",
+          "source_name": "SciShow",
+          "title": "A Planetarium Accidentally Discovered Something in the Oort Cloud",
+          "url": "https://www.youtube.com/watch?v=q7AM3ViYckA",
+          "kind": "video",
+          "published": "2026-09-30T17:00:20+00:00",
+          "summary_lines": [
+            "No transcript available; description says Dr. Jackie Faherty at the American Museum of Natural History accidentally discovered something about the Oort Cloud while working on a planetarium movie about the solar system.",
+            "Hosted by Savannah Geary (they/them).",
+            "Sources document linked via Google Docs."
+          ],
+          "why": "An accidental astronomical discovery from a planetarium project, serendipity in science.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fq7AM3ViYckA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "scishow",
+          "source_name": "SciShow",
+          "title": "The Con Man Who Invented Anesthesia",
+          "url": "https://www.youtube.com/watch?v=YHuet6imDWI",
+          "kind": "video",
+          "published": "2026-09-29T17:00:16+00:00",
+          "summary_lines": [
+            "No transcript available; description states William Morton popularized anesthesia but did not invent it, disguised the actual chemical (ether), and tried to patent it under the name «Letheon».",
+            "Hosted by Niba @NotesbyNiba (she/her).",
+            "Sources document linked via Google Docs."
+          ],
+          "why": "The ether/Letheon patent drama reveals how medical credit and commercialization collide.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FYHuet6imDWI%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "scishow",
+          "source_name": "SciShow",
+          "title": "When A Shipwreck Comes Back To Life",
+          "url": "https://www.youtube.com/watch?v=a--SDorutyw",
+          "kind": "video",
+          "published": "2026-09-28T17:00:25+00:00",
+          "summary_lines": [
+            "No transcript available; description says shipwrecks have a rich afterlife on the sea floor, more alive than you might think.",
+            "Hosted by Savannah Geary (they/them).",
+            "Sources document linked via Google Docs."
+          ],
+          "why": "Shipwrecks as artificial reefs, the ecological second life of sunken vessels.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fa--SDorutyw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "veritasium",
+          "source_name": "Veritasium",
+          "title": "How Dangerous Are Non-Stick Pans?",
+          "url": "https://www.youtube.com/shorts/IHkp5Kq72ro",
+          "kind": "short",
+          "published": "2026-10-01T18:26:42+00:00",
+          "summary_lines": [
+            "No transcript available; description asks «What happens to your body if you eat Teflon from a non-stick pan?» tagged #pfas #foreverchemicals.",
+            "Short-form format limits depth; full video likely covers PFAS health risks."
+          ],
+          "why": "PFAS from non-stick coatings are a persistent consumer-health concern; the «eating Teflon» scenario makes it visceral.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FIHkp5Kq72ro%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "veritasium",
+          "source_name": "Veritasium",
+          "title": "We're trying something new...",
+          "url": "https://www.youtube.com/watch?v=ONAuUyml0I",
+          "kind": "video",
+          "published": "2026-09-30T19:19:10+00:00",
+          "summary_lines": [
+            "No transcript available; description announces a new channel @InGeniusOfficial hosted by Latif Nasser, covering stories less about physics/maths and more about society and global systems.",
+            "First video already posted at https://youtu.be/eczB0uUx_k8.",
+            "Mission: understand how and why things work, including societal ripple effects."
+          ],
+          "why": "Veritasium branching into societal/innovation topics with a new host, signals a format expansion worth watching.",
+          "spicy": false
+        },
+        {
+          "source_id": "thoughtemporium",
+          "source_name": "The Thought Emporium",
+          "title": "US Senator for sale: for parts or not working.",
+          "url": "https://www.youtube.com/shorts/SY5lJYbpAOc",
+          "kind": "short",
+          "published": "2026-09-29T17:30:24+00:00",
+          "summary_lines": [
+            "No transcript available; description links to an eBay listing (item 128105984197) selling a «US Senator», clearly political satire.",
+            "The Thought Emporium typically does science/engineering builds; this is a humor piece."
+          ],
+          "why": "Satirical take on political commodification, a break from the channel's usual science content.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FSY5lJYbpAOc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "TED-Ed: AI data centers since 2019 — over 1,000 campuses, each ~100,000 sq m, using a small town's water and a small city's electricity",
+        "SciShow: William Morton disguised ether and tried to patent anesthesia as «Letheon»",
+        "SciShow: Dr. Jackie Faherty accidentally discovered something about the Oort Cloud while making a planetarium movie"
+      ]
+    },
+    {
+      "cluster_id": "tr-science",
+      "name": "tr-science",
+      "items": [
+        {
+          "source_id": "evrimagaci-org",
+          "source_name": "Evrim Ağacı (site)",
+          "title": "Güneş Işığını Yapay Olarak Kısma Planları Bilim Dünyasını Neden İkiye Böldü?",
+          "url": "https://evrimagaci.org/gunes-isigini-yapay-olarak-kisma-planlari-bilim-dunyasini-neden-ikiye-boldu-23813",
+          "kind": "article",
+          "published": "2026-09-28T16:16:15+03:00",
+          "summary_lines": [
+            "Article body unavailable (body: null); only the description is extractable.",
+            "Description states Milton Kasırgası was not produced by US President Joe Biden.",
+            "Description frames high-altitude aircraft condensation trails as NOT chemical spraying for weather control.",
+            "Dubai is mentioned as a location but the description cuts off before the claim is complete."
+          ],
+          "why": "Solar geoengineering is a live policy debate; the article apparently argues the science is split on feasibility.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fstorage.evrimagaci.org%2Fcontent%2F448eefd4-da42-4afb-a08c-018fe6e7bcb1.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "evrimagaci-org",
+          "source_name": "Evrim Ağacı (site)",
+          "title": "Uzmanlar, İngiltere'nin Altında Gizlenen Devasa Bir Yanardağ Keşfetti!",
+          "url": "https://evrimagaci.org/uzmanlar-ingilterenin-altinda-gizlenen-devasa-bir-yanardag-kesfetti-23812",
+          "kind": "article",
+          "published": "2026-09-28T15:28:27+03:00",
+          "summary_lines": [
+            "Article body unavailable (body: null); only the description is extractable.",
+            "Description says scientists found a massive volcano buried deep under England's east coast.",
+            "Description compares the buried volcano to today's Mount Etna.",
+            "Description frames the find as revealing a stormier geological past than the calm surface suggests."
+          ],
+          "why": "A hidden supervolcano under a major population center would be major geohazard news.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fstorage.evrimagaci.org%2Fcontent%2Fcd16594e-d769-4bd8-a952-323c08524e51.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "evrimagaci-org",
+          "source_name": "Evrim Ağacı (site)",
+          "title": "Dünya İnsansı Robot Oyunları: İnsansı Robotlar Spor ve Becerilerde Sınırları Zorluyor",
+          "url": "https://evrimagaci.org/dunya-insansi-robot-oyunlari-insansi-robotlar-spor-ve-becerilerde-sinirlari-zorluyor-23785",
+          "kind": "article",
+          "published": "2026-09-25T19:07:13+03:00",
+          "summary_lines": [
+            "Article body unavailable (body: null); only the description is extractable.",
+            "Description states ~2,000 humanoid robots competed in the second year, returning to Beijing.",
+            "Description says the event was held in late August with 666 teams from 16 countries.",
+            "Description lists football, dance, and table tennis as competition events; notes difficulties but cuts off."
+          ],
+          "why": "Humanoid robot sports are a fast-moving benchmark for real-world robot agility.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fstorage.evrimagaci.org%2Fcontent%2F939057d2-2872-4a9e-bd81-efd3a176c047.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "evrimagaci-org",
+          "source_name": "Evrim Ağacı (site)",
+          "title": "Bilim Neden Sadece Bilim İnsanları için Değildir?",
+          "url": "https://evrimagaci.org/bilim-neden-sadece-bilim-insanlari-icin-degildir-23780",
+          "kind": "article",
+          "published": "2026-09-25T19:01:03+03:00",
+          "summary_lines": [
+            "Article body unavailable (body: null); only the description is extractable.",
+            "Description opens with a childhood example: Hannah fascinated by a glass prism splitting sunlight into colors.",
+            "Description argues scientific curiosity forms early and shapes future paths.",
+            "Description cuts off before the university-level example is given."
+          ],
+          "why": "Science communication framing matters for who enters STEM fields.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fstorage.evrimagaci.org%2Fcontent%2F77d47891-ea4c-4025-87b7-7404948d1b5a.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "evrimagaci-org",
+          "source_name": "Evrim Ağacı (site)",
+          "title": "Papa XIV. Leo'dan İlham Alan Yapay Zeka Yönetişim Modeli, Etiği İlk Sıraya Koymayı Hedefliyor!",
+          "url": "https://evrimagaci.org/papa-xiv-leodan-ilham-alan-yapay-zeka-yonetisim-modeli-etigi-ilk-siraya-koymayi-hedefliyor-23779",
+          "kind": "article",
+          "published": "2026-09-25T18:50:27+03:00",
+          "summary_lines": [
+            "Article body unavailable (body: null); only the description is extractable.",
+            "Description names Lublin II. Ioannes Paulus Catholic University (KUL) and Eastern Finland University as developers.",
+            "Description says the AI governance model draws from Pope XIV. Leo's Magnifica Humanitas encyclical.",
+            "Description states the model prioritizes ethics for AI technologies but cuts off before specifics."
+          ],
+          "why": "Faith-based AI governance frameworks are an emerging alternative to Western regulatory models.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fstorage.evrimagaci.org%2Fcontent%2F8a1b322f-6a42-479f-a818-8a4af09ee607.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        }
+      ],
+      "picks": [
+        "~2,000 humanoid robots from 16 countries competed in Beijing in late August (666 teams, football/dance/table tennis)",
+        "Massive volcano discovered buried under England's east coast, compared to Etna",
+        "AI governance model inspired by Pope XIV. Leo's Magnifica Humanitas, developed by KUL and Eastern Finland University"
+      ]
+    },
+    {
+      "cluster_id": "urbanism",
+      "name": "urbanism",
+      "items": [
+        {
+          "source_id": "strongtowns",
+          "source_name": "Strong Towns",
+          "title": "Street Design Can Prevent Tragedy",
+          "url": "https://www.youtube.com/shorts/MVgamAoPhTU",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; the provided text is an API rate-limit message, and the description offers only generic street-safety framing without concrete facts, names, numbers, or mechanisms."
+          ],
+          "why": "The source contains no extractable substance to act on.",
+          "spicy": false,
+          "published": "2026-10-01T19:00:28+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FMVgamAoPhTU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "No usable transcript or concrete facts in source"
+      ]
+    },
+    {
+      "cluster_id": "economy",
+      "name": "economy",
+      "items": [
+        {
+          "source_id": "hmw",
+          "source_name": "How Money Works",
+          "title": "How Sports Predicted \"The Everything Bubble\"",
+          "url": "https://www.youtube.com/watch?v=gcvpN6Zh-WE",
+          "kind": "video",
+          "summary_lines": [
+            "Sports teams described as capital-intensive, thin-margin, illiquid businesses that bleed value if they don't win.",
+            "Key signal of investing mania cited: uptick in fraud surrounding the asset class.",
+            "Steve Ballmer apologizing after Clippers lost five first-round draft picks and face federal investigation; LIV Golf on verge of collapse as Saudi PIF pulls funding; Neymar signed with Al-Hilal; Ronaldo signed with Al Nassr."
+          ],
+          "why": "Sports team valuations have detached from business fundamentals, the Lakers sold at 122.5B despite being a terrible business by every traditional metric.",
+          "spicy": true,
+          "published": "2026-09-29T13:26:58+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FgcvpN6Zh-WE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "unlearningecon",
+          "source_name": "Unlearning Economics",
+          "title": "Prices Aren't Dropping",
+          "url": "https://www.youtube.com/shorts/4JtZ9Orzv08",
+          "kind": "short",
+          "summary_lines": [
+            "CPI shows inflation slowing but prices went up 20% and are now going up less fast, they haven't come back down.",
+            "Housing specifically called out as absurd.",
+            "The cost of living crisis persists despite inflation metrics looking better."
+          ],
+          "why": "The gap between inflation-rate-slowing and actual prices-staying-high is the lived reality for most people.",
+          "spicy": false,
+          "published": "2026-10-01T11:19:03+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2F4JtZ9Orzv08%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "cockshott",
+          "source_name": "Paul Cockshott",
+          "title": "Eliminating inequality: Chapter 1 of Towards a New Socialism",
+          "url": "https://www.youtube.com/watch?v=n1LBBQuium8",
+          "kind": "video",
+          "summary_lines": [
+            "Three sources of inequality identified: exploitation of employees by capital owners; unemployment and insecurity; gender income inequalities.",
+            "Labor should determine income, not property, workers should receive the full value product before tax.",
+            "Rent, interest, and dividends classified as unearned income; no income without work except pensions and disability benefits."
+          ],
+          "why": "Cockshott lays out the foundational argument that labor, not property ownership, should be the sole legitimate source of income.",
+          "spicy": true,
+          "published": "2026-10-01T19:48:35+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Fn1LBBQuium8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "cockshott",
+          "source_name": "Paul Cockshott",
+          "title": "Iota and reduce",
+          "url": "https://www.youtube.com/watch?v=Xb9Y21WxRtY",
+          "kind": "video",
+          "summary_lines": [
+            "Second talk on map/scan/reduce paradigm for data-parallel computing; covers coordinates, the iota operator, and generalized reduction.",
+            "Iota generates index values along an axis, APL operator, textual form \"iota\" on most keyboards.",
+            "Applied to Taylor series and sign function; scan used to efficiently compute exponentials.",
+            "Based on chapter 3 of \"Vector Programming as Geometry.\""
+          ],
+          "why": "The iota operator and scan/reduce paradigm enable concise parallel computation on modern vector/GPU architectures.",
+          "spicy": false,
+          "published": "2026-09-29T11:29:07+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FXb9Y21WxRtY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "cockshott",
+          "source_name": "Paul Cockshott",
+          "title": "Map/Scan Reduce part 1",
+          "url": "https://www.youtube.com/watch?v=74Err03ER9Y",
+          "kind": "video",
+          "summary_lines": [
+            "Replaces traditional loop-based array programming with whole-array operations: B = F(A) instead of for-loops.",
+            "Paradigm dates to Babbage's difference engine, von Neumann's index memory, Kilburn's index registers, Iverson's framework circa 1960.",
+            "Glasgow Pascal compiler used for examples; data parallelism on modern CPUs with SIMD and GPUs."
+          ],
+          "why": "This 1960s-era paradigm is the theoretical backbone of modern parallel computing on GPUs and SIMD hardware.",
+          "spicy": false,
+          "published": "2026-09-27T14:57:47+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2F74Err03ER9Y%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "wallstreetmojo",
+          "source_name": "WallStreetMojo",
+          "title": "10 Skills You Need to Become a Finance Professional",
+          "url": "https://www.youtube.com/shorts/0QstPEpvFcM",
+          "kind": "short",
+          "summary_lines": [
+            "Investment Analyst skills: financial modeling, investment strategies, portfolio management, financial data analysis, valuation, risk assessment, quantitative analysis.",
+            "Financial Analyst skills: Excel/spreadsheets, financial modeling, financial statements, accounting principles, SQL/Python, market research, ratio analysis, corporate finance.",
+            "FP&A Analyst skills: budgeting/forecasting, advanced spreadsheets, financial planning, cash flow analysis, data visualization, variance analysis, ERP systems, business acumen."
+          ],
+          "why": "A concise skills map across three finance career tracks, useful for anyone deciding which path to build.",
+          "spicy": false,
+          "published": "2026-09-29T13:30:13+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2F0QstPEpvFcM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "grahamstephan",
+          "source_name": "Graham Stephan",
+          "title": "2 Truths And 1 Lie With Dr. Mike",
+          "url": "https://www.youtube.com/shorts/L89I1ISPKoY",
+          "kind": "short",
+          "summary_lines": [
+            "Dr. Mike claims: 5-foot-6, makes more in one week than most make in a year, and doesn't have a micro penis (but close).",
+            "Graham Stephan says he filmed a podcast with Dr. Mike, doesn't remember him towering, guesses 5-foot-7."
+          ],
+          "why": "A lighthearted short but the height/money claims are the kind of unverifiable flexes common in finance-influencer culture.",
+          "spicy": false,
+          "published": "2026-09-29T17:30:29+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FL89I1ISPKoY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "wallstreetmojo",
+          "source_name": "WallStreetMojo",
+          "title": "EBIT vs EBITDA | What's the Difference?",
+          "url": "https://www.youtube.com/shorts/EOuChBkaLm0",
+          "kind": "short",
+          "summary_lines": [
+            "EBIT = Earnings Before Interest & Taxes (after depreciation/amortization); EBITDA adds D&A back to EBIT.",
+            "Example given: Revenue ₹500 Cr, operating expenses ₹350 Cr → EBIT ₹150 Cr; with depreciation ₹30 Cr and amortization ₹20 Cr → EBITDA ₹200 Cr.",
+            "EBITDA useful for cross-company operating performance comparison; EBIT reflects D&A impact of assets used."
+          ],
+          "why": "A quick reference for the D&A adjustment difference between the two most common profitability metrics.",
+          "spicy": false,
+          "published": "2026-10-01T13:30:39+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FEOuChBkaLm0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        }
+      ],
+      "picks": [
+        "LA Lakers sold for $122.5B vs $10B a year earlier — sports as institutionalized asset class",
+        "CPI says inflation down but prices went up 20% and stayed there — cost of living crisis continues",
+        "Cockshott: labor should determine income, not property — rent, interest, dividends are unearned"
+      ]
+    },
+    {
+      "cluster_id": "investigation",
+      "name": "investigation",
+      "items": [
+        {
+          "source_id": "coffeezilla",
+          "source_name": "Coffeezilla",
+          "title": "UFC Fighter Accidently Exposes a Huge Scam",
+          "url": "https://www.youtube.com/watch?v=OBJZw3bF0dg",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description contains only merch links, a Patreon link, Eric's full response on Google Drive, and a Hindenburg Research reference, no facts about the alleged scam itself."
+          ],
+          "why": "The actual content of the investigation is inaccessible without a transcript or article body.",
+          "spicy": false,
+          "published": "2026-09-29T14:00:29+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FOBJZw3bF0dg%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "coffeezillaextras",
+          "source_name": "voidzilla",
+          "title": "i am jack's complete lack of surprise",
+          "url": "https://www.youtube.com/watch?v=WxewhlVB1s0",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is a satirical disclaimer under the 'CRIME IS LEGAL' banner plus merch links, no factual claims or subject matter."
+          ],
+          "why": "The channel operates as rapid-fire opinion commentary but the description offers nothing extractable.",
+          "spicy": false,
+          "published": "2026-09-28T05:52:07+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FWxewhlVB1s0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "dropsite",
+          "source_name": "Drop Site News",
+          "title": "How the UAE Financed a Plan to Smear American Muslims",
+          "url": "https://www.dropsitenews.com/p/uae-alp-services-muslim-brotherhood",
+          "kind": "article",
+          "summary_lines": [
+            "Leaked documents show an Emirati defamation campaign extended into the United States, creating a blacklist that includes mainstream Muslim groups and dozens of American citizens."
+          ],
+          "why": "Leaked-doc evidence of a foreign defamation campaign targeting U.S. Muslims is a major investigative claim.",
+          "spicy": true,
+          "published": "2026-10-01T18:55:03+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21yVgt%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F64e1beb3-0f47-46f0-befc-235f0e52a077_4732x3208.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "dropsite",
+          "source_name": "Drop Site News",
+          "title": "Israel kills another Palestinian journalist; Bolivian attorney general detained; Entire newsroom arrested in Egypt",
+          "url": "https://www.dropsitenews.com/p/israel-gaza-journalist-bolivia-attorney-general-egypt-arrest-newsroom",
+          "kind": "article",
+          "summary_lines": [
+            "Drop Site Daily: October 1, 2026, three headlines: Israel kills a Palestinian journalist, Bolivian attorney general detained, entire Egyptian newsroom arrested."
+          ],
+          "why": "Three separate press-freedom incidents in one daily roundup underscore a global pattern.",
+          "spicy": true,
+          "published": "2026-10-01T14:22:44+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21HVMb%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Fee8aac9b-8bc1-4b06-b02f-1b7f93dc1936_7201x4892.heic&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "dropsite",
+          "source_name": "Drop Site News",
+          "title": "Trump's Next War? Leaked Plans Reveal Escalation in Cuba and Iran",
+          "url": "https://www.dropsitenews.com/p/trumps-next-war-leaked-plans-reveal-cuba-iran-china",
+          "kind": "article",
+          "summary_lines": [
+            "Episode 3 of the Drop Site War Brief, title claims leaked plans reveal escalation in Cuba and Iran; no transcript or body available to verify specifics."
+          ],
+          "why": "The title makes a serious allegation but the extractable content stops at the episode label.",
+          "spicy": false,
+          "published": "2026-09-30T16:02:50+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fapi.substack.com%2Ffeed%2Fpodcast%2F218080890%2F3b6869ae4b2a8205fec660c475cdb7fa.mp3&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "dropsite",
+          "source_name": "Drop Site News",
+          "title": "Crash of Tel Aviv flight narrowly averted after pilot fight; Ban on Canadian goods; Supreme Court allows Trump's deportations to resume",
+          "url": "https://www.dropsitenews.com/p/dubai-israel-flight-canada-goods-ban-trump-deportation-supreme-court",
+          "kind": "article",
+          "summary_lines": [
+            "Drop Site Daily: September 30, 2026, three headlines: Tel Aviv flight crash narrowly averted after pilot fight, Canadian goods ban, Supreme Court allows deportations to resume."
+          ],
+          "why": "Three major breaking-news items bundled in one daily edition.",
+          "spicy": true,
+          "published": "2026-09-30T15:26:09+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21F6Ej%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252F4afe94fc-9ebb-4ac6-accd-08f56119fc60_3176x2117.heic&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "dropsite",
+          "source_name": "Drop Site News",
+          "title": "Massacre at Minab: The School That Became a Grave",
+          "url": "https://www.dropsitenews.com/p/minab-school-massacre-iran-war-children-families",
+          "kind": "article",
+          "summary_lines": [
+            "The bombing of an Iranian school killed 120 children; Drop Site spoke to survivors, first responders, parents, and witnesses; description calls it one of the worst U.S. war crimes since Vietnam."
+          ],
+          "why": "120 children killed is a concrete, verifiable figure that demands scrutiny regardless of the 'war crime' framing.",
+          "spicy": true,
+          "published": "2026-09-30T12:30:02+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fsubstackcdn.com%2Fimage%2Ffetch%2F%24s_%21_dXh%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep%2Fhttps%253A%252F%252Fsubstack-post-media.s3.amazonaws.com%252Fpublic%252Fimages%252Ff77f0cbd-b4d0-4b4c-b863-952b4b5b7410_1600x800.jpeg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "intercept",
+          "source_name": "The Intercept",
+          "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+          "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+          "kind": "article",
+          "summary_lines": [
+            "A Eugene-based publication requested records about a cop accused of misconduct; the city slapped it with a $2.5M fee."
+          ],
+          "why": "A $2.5M records fee for a single officer's misconduct file is a striking weaponization of public-records law.",
+          "spicy": true,
+          "published": "2026-10-01T21:20:38+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Ftheintercept.com%2Fwp-content%2Fuploads%2F2026%2F10%2FScreenshot-2026-10-01-at-4.14.38-PM-1.png%3Ffit%3D1436%252C930&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "intercept",
+          "source_name": "The Intercept",
+          "title": "The Pentagon's Secret Budget",
+          "url": "https://theintercept.com/2026/10/01/trump-military-true-cost-budget-pentagon-trillions/",
+          "kind": "article",
+          "summary_lines": [
+            "Trump's proposed budget hides $1 trillion in military spending from the public by spreading it across disparate government agencies."
+          ],
+          "why": "Hiding $1 trillion in military spending across agencies is a concrete fiscal-transparency claim.",
+          "spicy": true,
+          "published": "2026-10-01T10:00:00+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Ftheintercept.com%2Fwp-content%2Fuploads%2F2021%2F11%2FGettyImages-1234899128-Military-Budget-Congress.jpg%3Fw%3D440%26h%3D440%26crop%3D1&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "intercept",
+          "source_name": "The Intercept",
+          "title": "ICE Deleted Reviews for Deaths in Custody That Cited Shoddy Medical Care",
+          "url": "https://theintercept.com/2026/09/30/ice-custody-deaths-medical-neglect/",
+          "kind": "article",
+          "summary_lines": [
+            "Three-quarters of ICE's own 2025 death reviews, briefly posted online, raised substandard and 'inappropriate' care of ill detainees; ICE deleted them."
+          ],
+          "why": "",
+          "spicy": true,
+          "published": "2026-09-30T17:23:18+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Ftheintercept.com%2Fwp-content%2Fuploads%2F2026%2F09%2FIMG_9959-e1790381175824.jpg%3Fw%3D440%26h%3D440%26crop%3D1&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "intercept",
+          "source_name": "The Intercept",
+          "title": "Israeli Settlers Killed His Constituent. Fetterman Is Sole Democrat Against Investigating Them.",
+          "url": "https://theintercept.com/2026/09/30/israel-west-bank-us-citizen-killings-senate-vote-fetterman/",
+          "kind": "article",
+          "summary_lines": [
+            "Senate voted 51, 47 against a resolution to force U.S. probes on killings of Americans in the West Bank; Fetterman was the sole Democrat opposed."
+          ],
+          "why": "A 51-47 vote with one Democrat breaking ranks on investigating settler killings of U.S. citizens is a specific, checkable fact.",
+          "spicy": true,
+          "published": "2026-09-30T04:14:52+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Ftheintercept.com%2Fwp-content%2Fuploads%2F2026%2F09%2FGettyImages-2264636666-e1790020605878.jpg%3Fw%3D440%26h%3D440%26crop%3D1&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        },
+        {
+          "source_id": "intercept",
+          "source_name": "The Intercept",
+          "title": "Inside the Business of Trump's Third-Country Deportations",
+          "url": "https://theintercept.com/2026/09/29/ice-third-country-deportation-flights/",
+          "kind": "article",
+          "summary_lines": [
+            "The Trump administration deports immigrants to countries where they have no connections; the article studied the system that profits from these deportations."
+          ],
+          "why": "A profit-driven deportation system to third countries is a concrete mechanism worth documenting.",
+          "spicy": true,
+          "published": "2026-09-29T15:00:00+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Ftheintercept.com%2Fwp-content%2Fuploads%2F2026%2F09%2Fomujt0ezisy.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": false
+        }
+      ],
+      "picks": [
+        "UAE leaked documents show Emirati defamation campaign blacklisting American Muslims and groups",
+        "120 children killed in Minab school bombing, survivors and witnesses interviewed",
+        "ICE deleted 75% of its own 2025 death reviews that cited shoddy medical care"
+      ]
+    },
+    {
+      "cluster_id": "political-economy",
+      "name": "political-economy",
+      "items": [
+        {
+          "source_id": "spookysocialist",
+          "source_name": "Spooky Streaming Socialist",
+          "title": "ZIONIST FRAT POOPY INCIDENT (REAL)",
+          "url": "https://www.youtube.com/watch?v=ILxLTCGuNXo",
+          "kind": "video",
+          "summary_lines": [
+            "AEPI (Alpha Epsilon Pi) is a Jewish fraternity at UW-Madison whose website op-ed states «The secret to creating pro-Israel youth is spelled AEI.»",
+            "Notable AEPI brothers named: Wolf Blitzer, Art Garfunkel, Mark Zuckerberg, Alan Dersowitz, described as «the guy who was in the Epstein files a bajillion times.»",
+            "The «poop incident» occurred at the University of Wisconsin-Madison; transcript cuts off before details."
+          ],
+          "why": "Names the fraternity, its stated mission, and notable members, the concrete facts behind the headline.",
+          "spicy": true,
+          "published": "2026-10-01T17:05:21+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FILxLTCGuNXo%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "spookysocialist",
+          "source_name": "Spooky Streaming Socialist",
+          "title": "NEW BI ICONS DROPPED",
+          "url": "https://www.youtube.com/watch?v=QSq_K_ODvP8",
+          "kind": "video",
+          "summary_lines": [
+            "Description frames the video as covering «viral bi rumors» about right-wing operatives Lauren Boebert and Candace Owens.",
+            "No transcript available, the only text is an API rate-limit notice."
+          ],
+          "why": "The description alone names the subjects and the «bi rumors» frame; without the transcript the actual claims can't be verified.",
+          "spicy": false,
+          "published": "2026-09-30T23:17:04+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FQSq_K_ODvP8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "badempanada",
+          "source_name": "BadEmpanada Live",
+          "title": "Deplatforming Works (Against the Left)",
+          "url": "https://www.youtube.com/watch?v=PTYlURm-IMs",
+          "kind": "video",
+          "summary_lines": [
+            "Carlos Maza's video is titled «deplatforming works, you cowards» and frames deplatforming as «harm reduction.»",
+            "The argument: support corporations banning right-wingers because it «works», alongside advertiser pressure and lawsuits.",
+            "Alex Jones «crash out» is cited as the marquee example of deplatforming success."
+          ],
+          "why": "Directly quotes the thesis and mechanism of a prominent breadtube argument, giving left critics concrete material to rebut.",
+          "spicy": true,
+          "published": "2026-10-01T17:00:11+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FPTYlURm-IMs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "badempanada",
+          "source_name": "BadEmpanada Live",
+          "title": "Zohran Announces Zionist Indoctrination Program",
+          "url": "https://www.youtube.com/watch?v=gilXYUwDEPs",
+          "kind": "video",
+          "summary_lines": [
+            "Description claims Zohran Mamdani announced a plan to «protect oppressed Jewish people in NYC» by giving millions to Zionist organizations.",
+            "No transcript available, only the description paragraph."
+          ],
+          "why": "The description's framing («Zionist Indoctrination Program») is itself a loaded claim; the actual dollar figures and orgs are unextractable without the transcript.",
+          "spicy": true,
+          "published": "2026-09-30T17:00:08+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FgilXYUwDEPs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "badempanada",
+          "source_name": "BadEmpanada Live",
+          "title": "Zohran's Bringing Neoliberalism Back",
+          "url": "https://www.youtube.com/watch?v=cGjbxuj3kN8",
+          "kind": "video",
+          "summary_lines": [
+            "Description argues Mamdani's rhetoric echoes Obama and Blair, hitting the same talking points and «smuggling in neoliberalism with left-sounding rhetoric.»",
+            "Claims this revival «could have serious consequences, and not just for NYC.»",
+            "No transcript available."
+          ],
+          "why": "The description makes a specific comparative claim (Mamdani = Obama/Blair neoliberal echo) that needs transcript verification.",
+          "spicy": true,
+          "published": "2026-09-29T17:00:04+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FcGjbxuj3kN8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "richardjmurphy",
+          "source_name": "Richard J Murphy",
+          "title": "How the AI boom could make you poorer",
+          "url": "https://www.youtube.com/watch?v=7nDJ23DK_Eo",
+          "kind": "video",
+          "summary_lines": [
+            "AI investment boom draws capital to US tech while Gulf war pushes energy costs; the collision hits interest rates, mortgages, rents, inflation, public spending, jobs.",
+            "Chapter marker: «$1 Trillion Is Flowing Into US Markets.»",
+            "Argument: central banks may raise rates, governments use higher borrowing costs as excuse for austerity, pensions, social care, public services under pressure."
+          ],
+          "why": "Connects AI capital flows to household-level costs (mortgages, rents) and austerity risk, concrete chain of causation.",
+          "spicy": true,
+          "published": "2026-10-01T06:00:14+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2F7nDJ23DK_Eo%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "richardjmurphy",
+          "source_name": "Richard J Murphy",
+          "title": "The UK doesn't need an IMF bailout",
+          "url": "https://www.youtube.com/watch?v=ZDbZgBiMp_8",
+          "kind": "video",
+          "summary_lines": [
+            "UK government debt is overwhelmingly denominated in sterling; the UK creates sterling, fundamentally different from foreign-currency-debt crises like 1976.",
+            "Argues revival of «IMF bailout» talk is a pretext for austerity, not a genuine insolvency risk.",
+            "References 1976 Britain when sterling was under pressure and foreign reserves mattered."
+          ],
+          "why": "Distinguishes currency-sovereign debt from foreign-currency debt, a concrete analytical point often missing from FT commentary.",
+          "spicy": false,
+          "published": "2026-09-30T06:00:39+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FZDbZgBiMp_8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "richardjmurphy",
+          "source_name": "Richard J Murphy",
+          "title": "What happens when neoliberalism's only got fear left to sell?",
+          "url": "https://www.youtube.com/watch?v=C7gCT8rO7OA",
+          "kind": "video",
+          "summary_lines": [
+            "Neoliberalism increasingly relies on fear (government debt, bond markets, «fiscal credibility») because its prosperity promise is failing.",
+            "Martin Wolf's FT arguments cited as an example of this fear-selling.",
+            "A ChatGPT prompt is provided at taxresearch.org.uk to help viewers write letters to their MP about the issues raised."
+          ],
+          "why": "Provides a usable tool (the ChatGPT prompt URL) alongside the critique, actionable for viewers who want to respond.",
+          "spicy": false,
+          "published": "2026-09-29T06:00:31+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FC7gCT8rO7OA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "democracyatwork",
+          "source_name": "Democracy At Work",
+          "title": "Capitalism Is Broken: We Need a Socialist World NOW! #shorts",
+          "url": "https://www.youtube.com/shorts/a_9JJVAVW8Q",
+          "kind": "short",
+          "summary_lines": [
+            "Capitalism itself cannot be reformed to avert climate catastrophe, end wars and genocide, or deliver decent living standards.",
+            "Capitalism as a system must be overthrown and replaced with a socialist world."
+          ],
+          "why": "Straightforward statement of the short's thesis, no nuance, no evidence cited, just the claim.",
+          "spicy": false,
+          "published": "2026-10-01T13:15:29+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fa_9JJVAVW8Q%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "realprogressives",
+          "source_name": "Real Progressives",
+          "title": "We owe $40 Trillion to the Decepticons?!",
+          "url": "https://www.youtube.com/shorts/rmtqnjMFGwY",
+          "kind": "short",
+          "summary_lines": [
+            "Steven Grumbine and James Fauntleroy (Jaybefaunt) debunk deficit myths used to justify austerity.",
+            "Claims the government spends trillions on endless war and corporate bailouts instead.",
+            "Full episode link: realprogressives.org/mnc-podcast-ep/episode-398."
+          ],
+          "why": "Names the speakers and the specific claim ($40T / deficit myths), gives a trail to the longer episode.",
+          "spicy": false,
+          "published": "2026-09-25T23:22:51+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FrmtqnjMFGwY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "rebeltaxi",
+          "source_name": "Rebel Taxi",
+          "title": "Dumb Stupid Cartoon Watching",
+          "url": "https://www.youtube.com/watch?v=d7t6wxBGlvg",
+          "kind": "video",
+          "summary_lines": [
+            "No extractable content, transcript is only an API rate-limit notice; description is «Watching Dumb Cartoons Yeah» plus Patreon link."
+          ],
+          "why": "Honest flag: this source has no consumable substance in the available text.",
+          "spicy": false,
+          "published": "2026-10-01T10:52:13+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2Fd7t6wxBGlvg%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "kaldirac6",
+          "source_name": "Kaldıraç 6",
+          "title": "«İçeride ve dışarıda savaş» ve «entegrasyon süreci»",
+          "url": "https://kaldirac6.org/iceride-ve-disarida-savas-ve-entegrasyon-sureci/",
+          "kind": "article",
+          "summary_lines": [
+            "Turkish-language article; no English transcript or body text available.",
+            "Description states the «Saray Rejimi» / TC state pursues an «içeride ve dışarıda savaş» (war inside and outside) policy that is not temporary, articulated since 2015 as an extraordinary state apparatus."
+          ],
+          "why": "The description alone names the policy and dates it to 2015, but the article body is inaccessible, treat as partial.",
+          "spicy": false,
+          "published": "2026-09-30T07:49:28+00:00",
+          "has_transcript": false
+        }
+      ],
+      "picks": [
+        "AEPI's own website op-ed spells out «The secret to creating pro-Israel youth is spelled AEI» — plus names Wolf Blitzer, Zuckerberg, Garfunkel, Dersowitz as brothers",
+        "Carlos Maza's video literally titled «deplatforming works, you cowards» frames deplatforming as «harm reduction» alongside advertiser pressure and lawsuits",
+        "Richard Murphy: $1 Trillion flowing into US markets from AI boom collides with Gulf-war energy costs — interest rates, mortgages, rents, austerity risk"
+      ]
+    },
+    {
+      "cluster_id": "tr-economy",
+      "name": "tr-economy",
+      "items": [
+        {
+          "source_id": "meseleekonomi",
+          "source_name": "Mesele Ekonomi",
+          "title": "Mehmet Şimşek'in Otonomi İllüzyonu! Rolü, Gücü ve Bağımsızlığı Abartılıyor | Özge Öner",
+          "url": "https://www.youtube.com/shorts/ouYMRlbZAXA",
+          "kind": "short",
+          "summary_lines": [
+            "Özge Öner says Şimşek acts like an outside expert issuing market warnings that go unacted upon; the 'autonomous economy minister' framing is overstated.",
+            "Öner thinks Şimşek will not stay until the election; a resignation now would shift indirect blame for the current situation onto his departure rather than the government.",
+            "The 'drum's stick is in someone else's hands' line captures the core claim: Şimşek's policy levers are not his own."
+          ],
+          "why": "If the finance minister's independence is theatrical, market pricing of Turkish policy risk rests on a false premise.",
+          "spicy": false,
+          "published": "2026-09-28T13:07:21+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FouYMRlbZAXA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "muratgamsiz",
+          "source_name": "Murat Gamsız",
+          "title": "Fikri Takip / Eylül 2026",
+          "url": "https://www.youtube.com/watch?v=9fNoY6iLjBc",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is a chapter list for a tech-news roundup covering iPhone Duo, GPT-6 Astra, AMD GDDR7, Apple TV Turkey pricing, and PISA 2025 results. [no transcript]"
+          ],
+          "why": "No extractable substance without a transcript.",
+          "spicy": false,
+          "published": "2026-10-01T16:36:51+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F9fNoY6iLjBc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "muratgamsiz",
+          "source_name": "Murat Gamsız",
+          "title": "Logitech G522, G512 X75 ve G502X PLUS Toplu Test",
+          "url": "https://www.youtube.com/watch?v=tjeV9NIN1B0",
+          "kind": "video",
+          "summary_lines": [
+            "The G502X Plus scroll wheel doubles as three buttons (its own click plus left and right), which the reviewer mapped to FPS actions for years.",
+            "New G502X Plus colorways (white-green, purple) are cosmetic only; internals and specs are unchanged from the 10-year anniversary metal version.",
+            "The G512 X75 keyboard ships in the same purple tone as the new G502X Plus, making the two a matching set.",
+            "All three products were played live for 8 hours in a Saturday stream across Battlefield 6 and Counter-Strike."
+          ],
+          "why": "Concrete hardware details for anyone deciding between Logitech's mid-tier gaming peripherals.",
+          "spicy": false,
+          "published": "2026-09-30T15:00:15+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FtjeV9NIN1B0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "muratgamsiz",
+          "source_name": "Murat Gamsız",
+          "title": "Sistem Önerileri - 9 / Eylül 2026",
+          "url": "https://www.youtube.com/watch?v=jL1QjXuygSs",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description lists segments on CPU picks, motherboard choices, RAM and SSD status, GPU market prices, a main build, an 'economic crisis' alternative build, and a supply-crisis explanation for GPU price increases. [no transcript]"
+          ],
+          "why": "No extractable substance without a transcript.",
+          "spicy": false,
+          "published": "2026-09-29T15:00:17+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FjL1QjXuygSs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "muratgamsiz",
+          "source_name": "Murat Gamsız",
+          "title": "Yağmur Altında Soru-Cevap / İstasyon Cafe",
+          "url": "https://www.youtube.com/watch?v=_7cKzyHDRBk",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is a cafe sponsor listing (İstasyon Cafe, Moda/Kadıköy) with no extractable content. [no transcript]"
+          ],
+          "why": "No extractable substance.",
+          "spicy": false,
+          "published": "2026-09-27T18:26:33+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2F_7cKzyHDRBk%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bloomberght",
+          "source_name": "Bloomberg HT",
+          "title": "Finansal Teknoloji - Kiralama Sektöründe Dijital Dönüşüm | 1 Ekim 2026",
+          "url": "https://www.youtube.com/watch?v=guBXiveGSyw",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description contains only Bloomberg HT social media links and a subscription prompt. [no transcript]"
+          ],
+          "why": "No extractable substance.",
+          "spicy": false,
+          "published": "2026-10-01T14:14:25+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FguBXiveGSyw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bloomberght",
+          "source_name": "Bloomberg HT",
+          "title": "Piyasa Hattı - \"Piyasada Dengelenme İçin BIST 30'da Yoğunlaşma Doğru Olacaktır\" | 1 Ekim 2026",
+          "url": "https://www.youtube.com/watch?v=w_AmB5G4SmA",
+          "kind": "video",
+          "summary_lines": [
+            "The on-air position stated in the title: concentration in BIST 30 is the correct move for market stabilization.",
+            "No transcript available; the description contains only Bloomberg HT social media links. [no transcript]"
+          ],
+          "why": "A named trading stance on BIST 30 concentration, useful as a contrarian or confirming signal.",
+          "spicy": false,
+          "published": "2026-10-01T14:14:20+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2Fw_AmB5G4SmA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bloomberght",
+          "source_name": "Bloomberg HT",
+          "title": "Üst Düzey - Türkiye'nin Turizmde Büyüme Planları ve Yatırımların Seyri | 1 Ekim 2026",
+          "url": "https://www.youtube.com/watch?v=-TImpeYh-gI",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the title indicates a discussion of Turkey's tourism growth plans and investment flows, but the description contains only Bloomberg HT social media links. [no transcript]"
+          ],
+          "why": "No extractable substance without a transcript.",
+          "spicy": false,
+          "published": "2026-10-01T14:01:57+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F-TImpeYh-gI%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bloomberght",
+          "source_name": "Bloomberg HT",
+          "title": "Gündem Teknoloji - Tüketici Elektroniğinde Pazar Görünümü | 1 Ekim 2026",
+          "url": "https://www.youtube.com/watch?v=vjphQ99QEtw",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the title indicates a consumer electronics market outlook segment, but the description contains only Bloomberg HT social media links. [no transcript]"
+          ],
+          "why": "No extractable substance without a transcript.",
+          "spicy": false,
+          "published": "2026-10-01T13:51:07+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FvjphQ99QEtw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bloomberght",
+          "source_name": "Bloomberg HT",
+          "title": "Fokus - Benzinde Eşel Mobil Bitti Kademeli ÖTV Geldi | 1 Ekim 2026",
+          "url": "https://www.youtube.com/watch?v=9x_cLQPG5jE",
+          "kind": "video",
+          "summary_lines": [
+            "Fuel indexation (eşel mobil) has ended; a tiered ÖTV (special consumption tax) system has replaced it, per the title.",
+            "No transcript available; the description contains only Bloomberg HT social media links. [no transcript]"
+          ],
+          "why": "A concrete fuel-tax mechanism change that alters pump-price pass-through in Turkey.",
+          "spicy": true,
+          "published": "2026-10-01T13:45:39+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F9x_cLQPG5jE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "bloomberght",
+          "source_name": "Bloomberg HT",
+          "title": "ABD Verilerine Piyasanın Tepkisini Abartılı Buluyorum | Bürümcekçi Araştırma / Haluk Bürümcekçi",
+          "url": "https://www.youtube.com/shorts/wH97fNWuQpU",
+          "kind": "short",
+          "summary_lines": [
+            "Bürümcekçi says the Fed's lack of clear forward guidance makes markets overreact to every data print.",
+            "The PCE decline was driven by downward revisions to prior months, not a fresh slowdown; other US data released the same day ran strong.",
+            "Friday's non-farm payrolls and early-October CPI will be the decisive inputs for the Fed's rate decision.",
+            "US 10-year Treasury yield could trade in the 5.40 to 5.50 percent range."
+          ],
+          "why": "A named 10-year yield range and a specific read on PCE revisions give traders a concrete anchor for the week.",
+          "spicy": true,
+          "published": "2026-10-01T11:46:52+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FwH97fNWuQpU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "paraanaliz",
+          "source_name": "Para Analiz",
+          "title": "Fon Krizinde 1 Ayda Herkes Parasını Alabilir! Hızlı Çözüm Yöntemi Ne? Dr. Cüneyt Akman&Z.Ece Ulukaya",
+          "url": "https://www.youtube.com/watch?v=y7zUTCgNJVU",
+          "kind": "video",
+          "summary_lines": [
+            "The title claims investors can recover their money within one month in the current fund crisis, with Dr. Cüneyt Akman and Zeynep Ece Ulukaya discussing a 'quick solution.'",
+            "Hashtags in the description reference Fatma Betül Sayan Kaya's resignation, the Tera investment fund crisis, and the Bagehot rule.",
+            "No transcript available; the description contains only social media links and hashtags. [no transcript]"
+          ],
+          "why": "A one-month recovery claim in a fund crisis is a testable, high-stakes statement worth tracking.",
+          "spicy": true,
+          "published": "2026-09-27T16:45:05+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fy7zUTCgNJVU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "Fuel indexation replaced by tiered ÖTV in Turkey",
+        "Bürümcekçi: US 10Y yield could hit 5.40 to 5.50 percent",
+        "Şimşek's 'autonomy' is theatrical, says Öner"
+      ]
+    },
+    {
+      "cluster_id": "media",
+      "name": "media",
+      "items": [
+        {
+          "source_id": "spunkram",
+          "source_name": "Onur Naci Ozturkler (Filmemacher)",
+          "title": "Aylardır Meta Akıllı Gözlükle yaşıyorum... ✅ (Dürüstçe Yorumluyorum)",
+          "url": "https://www.youtube.com/watch?v=chqwgfEcmAY",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description states the video is a months-long honest review of Meta Ray-Ban smart glasses covering usage, AI features, camera quality and price, but the actual content is not extractable from the description alone."
+          ],
+          "why": "A long-form product review could be useful, but without the transcript the specific claims, prices and verdicts cannot be verified.",
+          "spicy": false,
+          "published": "2026-09-30T16:45:37+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FchqwgfEcmAY%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "intotheshadows",
+          "source_name": "Into the Shadows",
+          "title": "Aribert Heim: The Forgotten Nazi Doctor",
+          "url": "https://www.youtube.com/watch?v=T7XfIl3Mle4",
+          "kind": "video",
+          "summary_lines": [
+            "Description states Aribert Heim allegedly murdered prisoners at Mauthausen, was captured by American forces, inexplicably released, practised medicine in West Germany, vanished in 1962, converted to Islam and died quietly in Cairo.",
+            "No transcript available, these facts come only from the description."
+          ],
+          "why": "The claim that a hunted Nazi doctor lived openly in West Germany for years before dying in Cairo under a new identity is a striking historical what-if.",
+          "spicy": true,
+          "published": "2026-10-01T17:00:24+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FT7XfIl3Mle4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "intotheshadows",
+          "source_name": "Into the Shadows",
+          "title": "The Job That Dissolved Your Jaw",
+          "url": "https://www.youtube.com/watch?v=1dlsYlsKjQw",
+          "kind": "video",
+          "summary_lines": [
+            "Description is a Huel sponsorship: code ITS gives 15% off $50+ for new customers; no video substance extractable.",
+            "No transcript available."
+          ],
+          "why": "The description contains only ad terms, no actual content about the video's claim.",
+          "spicy": false,
+          "published": "2026-09-29T17:00:38+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F1dlsYlsKjQw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "intotheshadows",
+          "source_name": "Into the Shadows",
+          "title": "What Became of Stalin's Inner Circle?",
+          "url": "https://www.youtube.com/watch?v=fU1It2AtUI4",
+          "kind": "video",
+          "summary_lines": [
+            "Description claims that after Stalin's death in 1953 his inner circle fought for power: Beria was arrested and executed, Malenkov/Molotov/Kaganovich/Bulganin/Voroshilov/Mikoyan faced defeat/exile/retirement/comeback, and Khrushchev who dismantled parts of the terror was eventually removed and retired.",
+            "No transcript available, these facts come only from the description."
+          ],
+          "why": "The fates of Stalin's successors are a classic power-vacuum story; the description promises surprising comebacks worth checking.",
+          "spicy": true,
+          "published": "2026-09-27T17:00:36+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FfU1It2AtUI4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "schaffrillas",
+          "source_name": "Schaffrillas Productions",
+          "title": "Forgotten Island and Primetime - Double Review",
+          "url": "https://www.youtube.com/watch?v=md9W-MEbJQQ",
+          "kind": "video",
+          "summary_lines": [
+            "Description says Schaff watches an animated movie and Forgotten Island; no review details, scores or claims given.",
+            "No transcript available."
+          ],
+          "why": "A double review could help decide what to watch, but the description offers no substance to evaluate.",
+          "spicy": false,
+          "published": "2026-09-28T17:54:00+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fmd9W-MEbJQQ%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "foodtheory",
+          "source_name": "The Food Theorists",
+          "title": "The SECRET to great Pizza is… SHRIMP?! | Food Theory",
+          "url": "https://www.youtube.com/shorts/qFPaD0ZSAt0",
+          "kind": "short",
+          "summary_lines": [
+            "Description claims NYC pizza and bagels taste good not because of the water itself but because of what lives in the water.",
+            "No transcript available."
+          ],
+          "why": "The 'living water' theory for NYC pizza is a fun, testable food-science claim.",
+          "spicy": true,
+          "published": "2026-10-01T15:00:23+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FqFPaD0ZSAt0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "foodtheory",
+          "source_name": "The Food Theorists",
+          "title": "Food Theory: The EVIL Secret Behind All Those Oreo Flavors?!",
+          "url": "https://www.youtube.com/watch?v=EP1cYCPMxng",
+          "kind": "video",
+          "summary_lines": [
+            "Description claims Oreo's bizarre flavors go beyond selling cookies, a strategy was uncovered by following the crumbs.",
+            "No transcript available; the specific strategy, flavors named or business claim is not in the description."
+          ],
+          "why": "A food-industry strategy reveal could be juicy, but the description doesn't say what the strategy actually is.",
+          "spicy": false,
+          "published": "2026-09-29T21:05:15+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FEP1cYCPMxng%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "michaeloburns",
+          "source_name": "Michael Burns",
+          "title": "Data Centers Will TRANSFORM Politics (but not in the way you think)",
+          "url": "https://www.youtube.com/watch?v=mp1AZUSd4rI",
+          "kind": "video",
+          "summary_lines": [
+            "Description lists Brooklyn Bedding sponsorship (30% off with code michaelburns), Patreon, MeansTV, a Haider essay link and chapter timestamps, but no actual argument about data centers and politics.",
+            "No transcript available."
+          ],
+          "why": "The title promises a counterintuitive political angle, but the description gives away none of it.",
+          "spicy": false,
+          "published": "2026-09-30T23:55:30+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fmp1AZUSd4rI%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "everyframeapainting",
+          "source_name": "Every Frame a Painting",
+          "title": "A trip to Granville Island @VIFFest Industry 2026",
+          "url": "https://www.youtube.com/shorts/Nl7q_96GWV0",
+          "kind": "short",
+          "summary_lines": [
+            "Description advertises a South Korea / Canada talk at VIFFest on Saturday Oct 3rd at 11am at the Revue Stage on Granville Island, with 20% discount code VF26EFP20.",
+            "No transcript available."
+          ],
+          "why": "A concrete industry event with a discount code, useful if you're in Vancouver for VIFFest.",
+          "spicy": false,
+          "published": "2026-09-30T17:03:13+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FNl7q_96GWV0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "Aribert Heim allegedly died in Cairo after years practicing medicine in West Germany under a new identity",
+        "Stalin's inner circle: Beria executed, Khrushchev eventually removed after dismantling parts of the terror",
+        "NYC pizza taste claimed to come from what lives in the water, not the water itself"
+      ]
+    },
+    {
+      "cluster_id": "music-culture",
+      "name": "music-culture",
+      "items": [
+        {
+          "source_id": "davidbennett",
+          "source_name": "David Bennett Music Theory",
+          "title": "Riders On The Storm at the Rhodes Piano factory",
+          "url": "https://www.youtube.com/shorts/HPFz9oy__pE",
+          "kind": "short",
+          "summary_lines": [
+            "Rhodes pianos described as iconic electric pianos used on classic tracks particularly in the 1970s; debut album UNDER AN EMPTY SKY out now on vinyl, CD and download via Bandcamp."
+          ],
+          "why": "Rhodes pianos shaped the sound of 1970s classic tracks; the short visits the factory where they are made.",
+          "spicy": false,
+          "published": "2026-09-30T18:00:19+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FHPFz9oy__pE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "davidbennett",
+          "source_name": "David Bennett Music Theory",
+          "title": "the deep cut samples of \"Praise You\" by Fatboy Slim",
+          "url": "https://www.youtube.com/shorts/G-IWtDTcjZk",
+          "kind": "short",
+          "summary_lines": [
+            "Title references deep cut samples in Fatboy Slim's Praise You; no transcript or description available to extract further facts."
+          ],
+          "why": "The title promises sample breakdown but no extractable content exists beyond the title itself.",
+          "spicy": false,
+          "published": "2026-09-29T14:00:38+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FG-IWtDTcjZk%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "davidbennett",
+          "source_name": "David Bennett Music Theory",
+          "title": "How Stevie Wonder uses Jazz Harmony",
+          "url": "https://www.youtube.com/watch?v=Oi07kBeRZkE",
+          "kind": "video",
+          "summary_lines": [
+            "Stevie Wonder uses ii-V-I (2-5-1) chord progressions to transport harmony around the key and beyond; on-screen tool Chordwatch offers 20% discount with code DAVID20; songs covered: Knock Me Off My Feet, Another Star, Don't You Worry 'bout A Thing."
+          ],
+          "why": "Concrete chord-progression framework plus a named discount code makes this actionable for musicians.",
+          "spicy": true,
+          "published": "2026-09-28T13:57:05+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FOi07kBeRZkE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "rickbeato",
+          "source_name": "Rick Beato",
+          "title": "Sheryl Crow talks about her \"Money Maker\" Gibson guitar #guitar #sherylcrow",
+          "url": "https://www.youtube.com/shorts/L3F9XpcVY4o",
+          "kind": "short",
+          "summary_lines": [
+            "Title mentions Sheryl Crow discussing her Money Maker Gibson guitar; no transcript or description available."
+          ],
+          "why": "No extractable facts beyond the title; the short's content is inaccessible.",
+          "spicy": false,
+          "published": "2026-10-01T13:20:26+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FL3F9XpcVY4o%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "rickbeato",
+          "source_name": "Rick Beato",
+          "title": "Did Smoking Kill Rock and Roll? The Nirvana Smoking Controversy",
+          "url": "https://www.youtube.com/watch?v=jt8bP3m23L0",
+          "kind": "video",
+          "summary_lines": [
+            "Pat Smear smoking on stage at MTV VMAs while accepting an award with Nirvana is addressed; the video discusses smoking's role throughout music history and culture."
+          ],
+          "why": "A live-TV controversy tied to Nirvana and a broader cultural argument about smoking in music.",
+          "spicy": true,
+          "published": "2026-09-29T20:27:18+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Fjt8bP3m23L0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "rickbeato",
+          "source_name": "Rick Beato",
+          "title": "Talking about what's new in music tech",
+          "url": "https://www.youtube.com/watch?v=cZg_I71HT9I",
+          "kind": "video",
+          "summary_lines": [
+            "Beato Flagship Sale: The Beato Book Interactive + rebuilt Ear Training Method for $59; sale ends Thursday October 1st at 11:59pm ET."
+          ],
+          "why": "A concrete price and deadline make this a time-sensitive deal for music-tech learners.",
+          "spicy": false,
+          "published": "2026-09-27T21:25:11+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FcZg_I71HT9I%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "Stevie Wonder uses ii-V-I chord progressions; Chordwatch discount code DAVID20",
+        "Pat Smear smoking at MTV VMAs with Nirvana; smoking's role in music history",
+        "Beato Flagship Sale: $59 for Book Interactive + Ear Training Method, ends Oct 1"
+      ]
+    },
+    {
+      "cluster_id": "tech-consumer",
+      "name": "tech-consumer",
+      "items": [
+        {
+          "source_id": "techlinked",
+          "source_name": "TechLinked",
+          "title": "How Does This Keep Happening?",
+          "url": "https://www.youtube.com/watch?v=W0F_ur5TiQw",
+          "kind": "video",
+          "published": "2026-09-29T05:06:45+00:00",
+          "summary_lines": [
+            "OpenAI agents probe government websites",
+            "States take on Meta and TikTok",
+            "Flock Safety targets a camera map researcher",
+            "Apple loses a $5.7B Taptic Engine case",
+            "A $1.7M solid gold mini PC exists",
+            "Copilot contractors review disturbing prompts"
+          ],
+          "why": "The timestamp descriptions reveal a week of consumer-tech controversies from AI agents to gold-plated PCs.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FW0F_ur5TiQw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techlinked",
+          "source_name": "TechLinked",
+          "title": "Anyway,",
+          "url": "https://www.youtube.com/watch?v=-1OA3URMck4",
+          "kind": "video",
+          "published": "2026-09-26T00:40:29+00:00",
+          "summary_lines": [
+            "Microsoft drops the Copilot+ PC name",
+            "Meta Connect glasses have a Muse security flaw",
+            "Gemini makes phone calls for you",
+            "AMD radar chip turns up in China",
+            "INMO Air 3 smart glasses recalled",
+            "WiCi wireless eGPU appears"
+          ],
+          "why": "Pre-Copilot+ rebrand details and a recalled smart-glasses model are the standouts.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F-1OA3URMck4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "mrwhosetheboss",
+          "source_name": "Mrwhosetheboss",
+          "title": "Which AI is smartest?",
+          "url": "https://www.youtube.com/shorts/1xI_lsZ4sxI",
+          "kind": "short",
+          "published": "2026-10-01T14:21:22+00:00",
+          "summary_lines": [
+            "ChatGBT guesses 1,128 jelly beans",
+            "Google Gemini guesses 1,850",
+            "New Siri says several hundred",
+            "Claude says 870",
+            "Microsoft Copilot says roughly 500 to 600",
+            "Grok says 412"
+          ],
+          "why": "A jelly-bean showdown exposes wild accuracy gaps across major LLMs in one short.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F1xI_lsZ4sxI%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "ltt",
+          "source_name": "Linus Tech Tips",
+          "title": "I Have Strong Feelings About Air Conditioning in the Tech House",
+          "url": "https://www.youtube.com/watch?v=1H20xp8Brnc",
+          "kind": "video",
+          "published": "2026-10-01T16:59:42+00:00",
+          "summary_lines": [
+            "Heat pump with mini splits installed in the Tech House",
+            "Chapters cover spec'ing, how it works, mounting, connecting lines, condenser, leak-checking",
+            "Correction : -15°C equals 5°F"
+          ],
+          "why": "A practical mini-split install with Linus's opinions and a Celsius/Fahrenheit correction.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F1H20xp8Brnc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "ltt",
+          "source_name": "Linus Tech Tips",
+          "title": "I Found these Computers in a Ditch…",
+          "url": "https://www.youtube.com/watch?v=y1hZ3EalPQU",
+          "kind": "video",
+          "published": "2026-09-28T18:15:07+00:00",
+          "summary_lines": [
+            "UGREEN sponsors; HomeAgent 100 reserve from $50 (50% off), also on Kickstarter",
+            "Linus found computers thrown away in a yard",
+            "Fixed, tested, and gave away at WHALE LAN",
+            "Special guest bocabola on Twitch"
+          ],
+          "why": "A dumpster-dive PC rescue with a giveaway at WHALE LAN and UGREEN's HomeAgent promo.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fy1hZ3EalPQU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "ltt",
+          "source_name": "Linus Tech Tips",
+          "title": "What's the Worst Tech Linus Still Uses?",
+          "url": "https://www.youtube.com/shorts/zH9bqwNShiM",
+          "kind": "short",
+          "published": "2026-09-27T17:12:45+00:00",
+          "summary_lines": [
+            "Description only asks 'what about the worst tech?', no transcript or details available"
+          ],
+          "why": "No extractable substance beyond the premise; transcript missing.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FzH9bqwNShiM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techspurt",
+          "source_name": "Tech Spurt",
+          "title": "Is This The Best 2-in-1 Windows Laptop/Tablet? #shorts",
+          "url": "https://www.youtube.com/shorts/fgue8U2rXD8",
+          "kind": "short",
+          "published": "2026-10-01T13:30:13+00:00",
+          "summary_lines": [
+            "HP OmniBook X Flip Windows 11 PC, sponsored by HP and Microsoft"
+          ],
+          "why": "Just a sponsored short with no specs in the description.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2Ffgue8U2rXD8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techspurt",
+          "source_name": "Tech Spurt",
+          "title": "HP OmniBook X Flip | Impressive Flex From This Versatile Laptop!",
+          "url": "https://www.youtube.com/watch?v=oYBWDoLfNFM",
+          "kind": "video",
+          "published": "2026-10-01T13:00:17+00:00",
+          "summary_lines": [
+            "14-inch slim lightweight 2-in-1 convertible",
+            "Intel Core Ultra 5 processor",
+            "3K OLED screen with DTS:X Ultra audio",
+            "Battery up to 32 hours, WiFi 7",
+            "Microsoft Copilot built in",
+            "Sponsored by HP and Microsoft"
+          ],
+          "why": "Full spec sheet for the OmniBook X Flip makes this a concrete buy consideration.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FoYBWDoLfNFM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techspurt",
+          "source_name": "Tech Spurt",
+          "title": "Most Epic Tablet of 2026! | Samsung Galaxy Tab S12 Ultra Review",
+          "url": "https://www.youtube.com/watch?v=YyW6ufRQ5Ss",
+          "kind": "video",
+          "published": "2026-09-30T11:59:37+00:00",
+          "summary_lines": [
+            "15-inch AMOLED display",
+            "OneUI 9 with AI features",
+            "Samsung Pro Keyboard cover converts to laptop",
+            "Discount code AFF_TECHSPURT"
+          ],
+          "why": "A week-long test of the Tab S12 Ultra covers gaming, battery, and everyday use.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FYyW6ufRQ5Ss%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techspurt",
+          "source_name": "Tech Spurt",
+          "title": "Coffee Addicts, You NEED This Upgraded Portable Brewer! #shorts",
+          "url": "https://www.youtube.com/shorts/Q-UhDySI8Ks",
+          "kind": "short",
+          "published": "2026-09-30T09:27:56+00:00",
+          "summary_lines": [
+            "Outin Nano 2 brews nine espresso coffees on the go using grinds or capsules",
+            "Mini review vs original Outin Nano"
+          ],
+          "why": "A quick comparison for portable espresso lovers.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FQ-UhDySI8Ks%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techspurt",
+          "source_name": "Tech Spurt",
+          "title": "Best Headphones of 2026! | Technics EAH A1000 Review",
+          "url": "https://www.youtube.com/watch?v=qon4cKiMmsc",
+          "kind": "video",
+          "published": "2026-09-29T13:59:03+00:00",
+          "summary_lines": [
+            "Transcript names the cans 'Technics A8000' / 'EAH-AZ70W' (title says EAH A1000)",
+            "Connects to up to 3 devices seamlessly",
+            "14-hour flight comfort test",
+            "Adaptive Noise Cancellation, LDAC over Bluetooth",
+            "Battery life beats Sony and Bose rivals",
+            "Available in black and 'greyish' (grey mixed with beige)"
+          ],
+          "why": "Two-week Tokyo test with specific comfort and battery claims vs Sony/Bose.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fqon4cKiMmsc%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "techspurt",
+          "source_name": "Tech Spurt",
+          "title": "These Party Speakers Will **** Off Your Neighbours! | Sony ULT Tower 5, 7 & Max",
+          "url": "https://www.youtube.com/watch?v=jEQXtT7foto",
+          "kind": "video",
+          "published": "2026-09-28T14:19:17+00:00",
+          "summary_lines": [
+            "ULT Tower 5: 300W, dual tweeters, 230mm woofer, ~50 LEDs, ~20hr battery",
+            "ULT Tower 7: 420W, four tweeters, two mid-range, 280mm woofer",
+            "ULT Tower Max: 2150W, three 260mm woofers, 100 LEDs, under 60kg, wheels",
+            "XLR daisy-chain, RCA, USB-C, USB-A; Party Chain wireless",
+            "Sony Sound Connect app, 4 sound profiles"
+          ],
+          "why": "Full power and connectivity breakdown for the new Sony ULT tower trio.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FjEQXtT7foto%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "gamelinked",
+          "source_name": "GameLinked",
+          "title": "please, buy this Game",
+          "url": "https://www.youtube.com/watch?v=dMXiJkreyFo",
+          "kind": "video",
+          "published": "2026-09-25T00:25:49+00:00",
+          "summary_lines": [
+            "Control Resonant launches",
+            "Xbox layoffs and Halo moves to Activision",
+            "Dutch class action against Epic over Fortnite",
+            "Microsoft patents mid-game ads",
+            "Call of Duty cheat economy valued at $8.5B",
+            "People Playground malware shuts down Workshop"
+          ],
+          "why": "A $8.5B cheat-economy figure and mid-game ad patent make this week stand out.",
+          "spicy": true,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FdMXiJkreyFo%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "undecidedtech",
+          "source_name": "Undecided with Matt Ferrell",
+          "title": "There are over 100 small reactor designs. That's the problem.",
+          "url": "https://www.youtube.com/shorts/H3EnwPEyy34",
+          "kind": "short",
+          "published": "2026-10-01T12:17:07+00:00",
+          "summary_lines": [
+            "Over 100 SMR (Small Modular Reactor) designs exist, that fragmentation is the problem",
+            "Full video at https://youtu.be/zrNa9k6sSlg"
+          ],
+          "why": "The SMR fragmentation problem points to a full video for deeper analysis.",
+          "spicy": false,
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FH3EnwPEyy34%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "Gemini wins jelly-bean showdown with 1,850 vs true answer 1,000",
+        "Sony ULT Tower Max hits 2,150W with 100 LEDs and wheels under 60kg",
+        "Call of Duty cheat economy valued at $8.5B"
+      ]
+    },
+    {
+      "cluster_id": "tech-dev",
+      "name": "tech-dev",
+      "items": [
+        {
+          "source_id": "linuxexp",
+          "source_name": "The Linux Experiment",
+          "title": "Windows is losing users FAST: what is happening and what you can do",
+          "url": "https://www.youtube.com/watch?v=KMt9y53yXqo",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description contains only sponsor links (TuxCare Radar, Tuxedo Computers) and chapter titles like «Windows 11 is failing right now» with no extractable arguments or facts from the video itself."
+          ],
+          "why": "The actual content is inaccessible, only sponsor links and chapter labels remain.",
+          "spicy": false,
+          "published": "2026-10-01T10:39:17+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FKMt9y53yXqo%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "christitustech",
+          "source_name": "Chris Titus Tech",
+          "title": "You Reported It. I Fixed It.",
+          "url": "https://www.youtube.com/watch?v=K6OEKD8Z1-g",
+          "kind": "video",
+          "summary_lines": [
+            "WinUtil and Win One Shot updates include clipboard and run history fixes, better display scaling, expanded language support, and a reworked Windows 11 Creator.",
+            "He scrapped a month of development when it made the tool slower.",
+            "Sponsored by General Translation (link.christitus.com/generaltranslation)."
+          ],
+          "why": "Concrete bug-fix list from user feedback, useful if you rely on WinUtil.",
+          "spicy": false,
+          "published": "2026-09-30T11:15:08+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FK6OEKD8Z1-g%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "fireship-1",
+          "source_name": "Fireship",
+          "title": "The one OpenAI announcement that can actually make you money...",
+          "url": "https://www.youtube.com/watch?v=No-JPdFvYWU",
+          "kind": "video",
+          "summary_lines": [
+            "Covers OpenAI Dev Day 2026 announcements.",
+            "Fastino.ai offers a faster open-weight version of Jev; code FIRESHIPFIVE gives free credits."
+          ],
+          "why": "OpenAI Dev Day announcements may affect devs building on OpenAI APIs.",
+          "spicy": true,
+          "published": "2026-10-01T19:34:14+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FNo-JPdFvYWU%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "fireship-2",
+          "source_name": "Fireship",
+          "title": "Did a 50 year old military secret just solve agent prompt injection?",
+          "url": "https://www.youtube.com/watch?v=I_KVMFrUtPk",
+          "kind": "video",
+          "summary_lines": [
+            "OpenAPPA repo (github.com/archestra-ai/OpenAPPA) claims to fix the rogue agent / prompt injection problem in AI agents."
+          ],
+          "why": "If valid, this addresses one of AI's most persistent security flaws.",
+          "spicy": true,
+          "published": "2026-09-30T17:16:43+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FI_KVMFrUtPk%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "fireship-3",
+          "source_name": "Fireship",
+          "title": "DHH has gone completely off the rails...",
+          "url": "https://www.youtube.com/watch?v=OuNKBjuV7A4",
+          "kind": "video",
+          "summary_lines": [
+            "DHH told 1,200 Rails developers that writing code by hand is over.",
+            "CodeRabbit Triage sponsors the video (prioritizes pull requests)."
+          ],
+          "why": "DHH's stance on hand-written code vs AI-assisted coding is a hot debate.",
+          "spicy": true,
+          "published": "2026-09-28T19:27:59+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FOuNKBjuV7A4%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "theprimetimeagen-1",
+          "source_name": "ThePrimeTimeagen",
+          "title": "Resigning from Anthropic",
+          "url": "https://www.youtube.com/shorts/-lPiTHCo0Lw",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; description is just «Resigning from Anthropic #Shorts» with no extractable facts."
+          ],
+          "why": "Nothing verifiable from the source itself.",
+          "spicy": false,
+          "published": "2026-10-01T13:09:06+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F-lPiTHCo0Lw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "theprimetimeagen-2",
+          "source_name": "ThePrimeTimeagen",
+          "title": "He Realized his Mistake",
+          "url": "https://www.youtube.com/watch?v=jF3W7EkXd4k",
+          "kind": "video",
+          "summary_lines": [
+            "70% of enterprise Java errors traced to a single 1965 decision by Tony Hoare.",
+            "Null pointer exception caused one of largest Google outages: 7 hours downtime, 3 hours global, affecting Spotify, costing millions.",
+            "Hoare invented quicksort on pen and paper in Russia with no computer and no recursive programming language available.",
+            "Born January 11, 1934 in Sri Lanka; educated Dragon School Oxford, King School Canterbury, Merton College Oxford 1952; spent 18 months studying Russian in Royal Navy duty.",
+            "Awarded 21+ times including Turing Award; knighted for education and computer science; laid foundations for Pascal and Go.",
+            "Namespace sponsor: drop-in replacement for GitHub Actions, used by Ramp, Vanta, Warp, Framer, Zed, Foul, Sierra, Whisper Flow, Duck DB, Ghosty."
+          ],
+          "why": "Hoare's null pointer cost millions in a recent Google outage, and 70% of Java errors trace back to his 1965 decision.",
+          "spicy": true,
+          "published": "2026-09-29T15:24:56+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FjF3W7EkXd4k%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "theprimetimeagen-3",
+          "source_name": "ThePrimeTimeagen",
+          "title": "Casey Muratori Judges Our Digging Games | TheStandup",
+          "url": "https://www.youtube.com/watch?v=W9-UG1hvMYs",
+          "kind": "video",
+          "summary_lines": [
+            "Casey Muratori judges digging games by Trash, Teej, and Prime.",
+            "Trash Games: qwerop.com; Teej Games: dig-deep.trm.sh and gravel-empire.trm.sh; Prime Games: beatdig.trm.sh.",
+            "Linear sponsors (teams track issues, manage projects, collaborate on docs, ship products).",
+            "Hosts: Prime, Teej, Trash, DHH (cmuratori)."
+          ],
+          "why": "Indie game dev showcase with Casey Muratori as judge, relevant for gamedev folks.",
+          "spicy": false,
+          "published": "2026-09-27T13:00:01+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FW9-UG1hvMYs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "70% of enterprise Java errors trace to Tony Hoare's 1965 decision; null pointer cost millions in Google outage",
+        "OpenAPPA repo claims to fix agent prompt injection — a 50-year-old military secret",
+        "DHH told 1,200 Rails developers writing code by hand is over"
+      ]
+    },
+    {
+      "cluster_id": "tr-culture",
+      "name": "tr-culture",
+      "items": [
+        {
+          "source_id": "gidadedektifi",
+          "source_name": "Gıda Dedektifi",
+          "title": "Okul Gıdası logosu yürürlüğe girdi ama kantinlerin durumu pek de öyle söylemiyor: Bir bakan yok mu?",
+          "url": "https://www.youtube.com/shorts/ww4v0x8CgOM",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; the description is null, the short carries no extractable content about the school-meal logo or canteen conditions."
+          ],
+          "why": "The source promises commentary on the Okul Gıdası regulation but delivers no retrievable substance.",
+          "spicy": false,
+          "published": "2026-09-30T20:37:54+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2Fww4v0x8CgOM%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "gidadedektifi",
+          "source_name": "Gıda Dedektifi",
+          "title": "Eğer 2015 yılında Sağlık Bakanlığı'nın kantinlerle ilgili düzenleme kararları uygulanabilseydi...",
+          "url": "https://www.youtube.com/shorts/RmVGpDeoEkA",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; the description is null, the short contains no extractable claim about the 2015 canteen regulation."
+          ],
+          "why": "The title hints at a counterfactual about 2015 health-ministry canteen rules, but nothing retrievable backs it up.",
+          "spicy": false,
+          "published": "2026-09-29T19:26:28+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FRmVGpDeoEkA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "gidadedektifi",
+          "source_name": "Gıda Dedektifi",
+          "title": "GIDA PANORAMA'DA KONUŞUYORUZ: 6 yıldır ertelenen Okul Gıdası yürürlükte, peki kantinlerde durum ne?",
+          "url": "https://www.youtube.com/watch?v=JnWsHpH7Aq8",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description is only Ingr app download links and a YouTube channel join link, no content about Okul Gıdası or canteen conditions."
+          ],
+          "why": "The video title cites a 6-year-delayed school-meal regulation, but the description offers zero extractable facts.",
+          "spicy": false,
+          "published": "2026-09-27T19:30:20+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FJnWsHpH7Aq8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "eniskirazoglu",
+          "source_name": "Enis Kirazoglu",
+          "title": "BU OYUN BENİM İÇİN BİTMİŞTİR (EA FC 27 TÜRK OYUNCU KARİYERİ)",
+          "url": "https://www.youtube.com/watch?v=KYvv-6aYqf0",
+          "kind": "video",
+          "summary_lines": [
+            "EA FC 27 career mode is set on the online arena because the traditional career mode has no new features, according to the creator.",
+            "The new \"Grounds\" street-football mode is the headline update, but the creator says the player community is not responding well, less interest than the old Volta mode.",
+            "Sponsor: Migros Yemek offers 350 TL off the first order via a provided link."
+          ],
+          "why": "A Turkish creator's frank take on EA FC 27's stalled career mode and the lukewarm reception of Grounds could signal broader player sentiment.",
+          "spicy": true,
+          "published": "2026-10-01T14:55:45+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FKYvv-6aYqf0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "eniskirazoglu",
+          "source_name": "Enis Kirazoglu",
+          "title": "EFSANE FORMULA 1 PİLOTU MAX VERSTAPPEN İLE YARIŞTIM (5 SANİYEDE TOKATLADI!)",
+          "url": "https://www.youtube.com/watch?v=Daxt2JHNcRE",
+          "kind": "video",
+          "summary_lines": [
+            "The creator raced against Max Verstappen in a 100-amateur-pilot event over 3 days, with Go Kart training, qualifying, and the actual race.",
+            "Wraith headphones are the sponsor, with a link provided.",
+            "The creator calls the result a \"felaket eğlence\" (disaster fun) despite not hitting the desired performance."
+          ],
+          "why": "A Verstappen head-to-head with an honest \"it was a mess but fun\" framing is the kind of raw content that stands out.",
+          "spicy": true,
+          "published": "2026-09-27T14:21:30+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FDaxt2JHNcRE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "yemekcom",
+          "source_name": "Yemek.com",
+          "title": "Haşlanırken Dağılmayan İçli Köftenin Sırrı Bu Videoda 🤩🔥 #yemekcom",
+          "url": "https://www.youtube.com/shorts/IBEyyk3iyjE",
+          "kind": "short",
+          "summary_lines": [
+            "The secret is the bulgur: Duru Sefer Kitel is made by grinding wheat bran without boiling, unlike standard bulgurs that are boiled then dried, giving the dough elastic stretch.",
+            "Recipe: 1 cup Duru Sefer Kitel, 2 cups Duru Kısırlık Bulgur, 1 egg, 1 tbsp biber salçası, 1 tsp flour, 2 tsp salt, ~2 cups warm water for the outer shell; 400g kıyma, 2 dried onions, spices, butter, parsley for the inner.",
+            "Steps: knead outer shell to non-stick, pliable consistency; cook inner meat filling with onions and spices, cool completely; shape thin discs, fill, seal, boil in salted water until floating, serve with garlic yogurt and browned butter."
+          ],
+          "why": "A concrete, repeatable hack for içli köfte that never falls apart, exact ingredients and technique in one short.",
+          "spicy": true,
+          "published": "2026-10-01T13:30:11+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2FIBEyyk3iyjE%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "yemekcom",
+          "source_name": "Yemek.com",
+          "title": "Yemek.com'da Artık Tariflere Ulaşmanın Yepyeni Bir Yolu Var!",
+          "url": "https://www.youtube.com/shorts/to-yDkW0jgA",
+          "kind": "short",
+          "summary_lines": [
+            "No transcript available; the description is only a Yemek.com app download link, no extractable content about the new recipe-access method."
+          ],
+          "why": "The title promises a new way to find recipes but the source gives nothing retrievable.",
+          "spicy": false,
+          "published": "2026-10-01T07:37:40+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2Fto-yDkW0jgA%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "yemekcom",
+          "source_name": "Yemek.com",
+          "title": "Mercimek Ekmek Tarifi | Unsuz, Mayasız, Glutensiz Ekmek Nasıl Yapılır?",
+          "url": "https://www.youtube.com/watch?v=dioV48Q55M0",
+          "kind": "video",
+          "summary_lines": [
+            "Recipe: 1 cup red lentils soaked overnight, blended with 1/2 cup yogurt, 1/4 cup olive oil, 2 eggs, 1 packet baking powder; add 1/2 bunch dill, salt; pour into rectangular pan, top with 1 cup lor cheese, sprinkle sesame-çörek otu mix, bake 170°C 30 min.",
+            "1 portion = 251 kalori; gluten-free, no wheat flour, no yeast; shelf life 2-3 days room temperature.",
+            "FAQ: green lentils work if dried thoroughly; deeper pans need 45-50 min; kürdan test before pulling from oven."
+          ],
+          "why": "A fully worked gluten-free, yeast-free lentil bread with exact times, temps, and calorie count, easy to act on.",
+          "spicy": false,
+          "published": "2026-09-28T13:00:09+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2FdioV48Q55M0%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "EA FC 27 Grounds mode gets lukewarm player response vs older Volta mode — creator calls career mode dead without new features",
+        "Max Verstappen raced 100 amateurs over 3 days; creator calls it \"felaket eğlence\" but honest fun",
+        "İçli köfte secret: Duru Sefer Kitel bulgur (unboiled bran) gives elastic dough that never splits — full recipe with exact measurements"
+      ]
+    },
+    {
+      "cluster_id": "tr-history",
+      "name": "tr-history",
+      "items": [
+        {
+          "source_id": "32gun",
+          "source_name": "32.Gün",
+          "title": "Papa Suikasti: KGB, Bulgaristan ve Mehmet Ali Ağca Gerçeği #shorts",
+          "url": "https://www.youtube.com/shorts/5M-NGutHP2Q",
+          "kind": "short",
+          "summary_lines": [
+            "Andropov allegedly ordered the Pope assassination plot, offered to the Eastern Bloc to prevent its dissolution, Bekir Çelenk and Mehmet Ali Ağca were used, serious money was involved, Bekir Çelenk allegedly killed in Bulgaria.",
+            "No transcript available; claims come solely from the description text."
+          ],
+          "why": "Unverified claims about a Cold War-era assassination plot circulate without documentary evidence in the source.",
+          "spicy": true,
+          "published": "2026-10-01T14:25:32+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2F5M-NGutHP2Q%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "32gun",
+          "source_name": "32.Gün",
+          "title": "Banker Kastelli'den Ekonomi ve Devlet Dersleri #shorts",
+          "url": "https://www.youtube.com/shorts/OgmH-7HiCYo",
+          "kind": "short",
+          "summary_lines": [
+            "Cevher Özden (Banker Kastelli) stated: \"Hiçbir bankanın sorunu yok, tüm mevduatlar teminat altında\", then argued that depositing money while knowing a bank will fail disqualifies someone as a state actor.",
+            "He warned citizens to move money elsewhere if Ankara fails to manage the crisis, claimed he's still walking smartly, urged listening to the street's voice not the press."
+          ],
+          "why": "A direct recording of Banker Kastelli's post-crisis message carries concrete warnings about deposit safety and state accountability.",
+          "spicy": true,
+          "published": "2026-09-30T16:32:39+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FOgmH-7HiCYo%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "32gun",
+          "source_name": "32.Gün",
+          "title": "Banker Kastelli 32.Gün'de | 2001",
+          "url": "https://www.youtube.com/watch?v=vpvMZszKYuw",
+          "kind": "video",
+          "summary_lines": [
+            "Banker Kastelli affair: early 1980s, Cevher Özden exploited the 24 January 1980 free-market decisions, sold deposit certificates in banks' names with interest rates far above normal banks, collected billions of lira from hundreds of thousands via Yeşilçam celebrity ads."
+          ],
+          "why": "The 24 January 1980 economic liberalization created the conditions for Özden's massive certificate-sale scheme, a concrete cause-and-effect chain.",
+          "spicy": true,
+          "published": "2026-09-29T14:30:08+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi3.ytimg.com%2Fvi%2FvpvMZszKYuw%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "mustafaozturkarsivi",
+          "source_name": "Mustafa Öztürk Arşivi",
+          "title": "Sünnilik Nasıl Resmi İdeoloji Oldu? Osmanlı’dan Günümüze Devlet ve Cemaat İlişkileri｜Ekopolitik",
+          "url": "https://www.youtube.com/watch?v=GpkMfxuog7g",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description contains only membership-channel links and an Instagram URL, no extractable factual content."
+          ],
+          "why": "The source offers no verifiable claims or data to distill.",
+          "spicy": false,
+          "published": "2026-10-01T13:00:36+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FGpkMfxuog7g%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "mustafaozturkarsivi",
+          "source_name": "Mustafa Öztürk Arşivi",
+          "title": "İncil ve Hıristiyanlık Anlatısını Altüst Eden Adam Bruno Bauer: İsa Var mı, Hıristiyanlık Kurgu mu?",
+          "url": "https://www.youtube.com/watch?v=a3rXFlfmuLs",
+          "kind": "video",
+          "summary_lines": [
+            "No transcript available; the description contains only membership-channel links and an Instagram URL, no extractable factual content."
+          ],
+          "why": "The source offers no verifiable claims or data to distill.",
+          "spicy": false,
+          "published": "2026-09-29T13:00:19+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi2.ytimg.com%2Fvi%2Fa3rXFlfmuLs%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "dfttarih",
+          "source_name": "DFT Tarih",
+          "title": "Dünyanın En Tehlikeli İstihbarat Servisleri Hangisi?",
+          "url": "https://www.youtube.com/watch?v=4TxtAv6-dW8",
+          "kind": "video",
+          "summary_lines": [
+            "Video covers modern intelligence history from the FDR era to present, compares Russia's FSB/SVR/GRU, discusses CIA/FBI, MI5/MI6, Mossad/AMAN/Shin Bet, China's MSS, Turkey's MIT, and intelligence services of India, Pakistan, Iran, North Korea; Cambridge Five cited as a landmark case."
+          ],
+          "why": "A comparative overview of global intelligence agencies with named institutions and historical reference points.",
+          "spicy": false,
+          "published": "2026-09-30T15:00:25+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2F4TxtAv6-dW8%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "erolmutercimler",
+          "source_name": "Erol Mütercimler",
+          "title": "Erol Mütercimler - Tuz koktu, Norveç varlık fonu da dolandırılmış #820",
+          "url": "https://www.youtube.com/watch?v=x0Yr2gPE2wI",
+          "kind": "video",
+          "summary_lines": [
+            "Title claims Norway sovereign wealth fund was also defrauded (\"tuz koktu\"); no transcript available; description is just a Twitter handle and email."
+          ],
+          "why": "The title makes a specific fraud claim but the source provides no evidence or details to verify it.",
+          "spicy": true,
+          "published": "2026-10-01T11:43:57+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi1.ytimg.com%2Fvi%2Fx0Yr2gPE2wI%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        },
+        {
+          "source_id": "erolmutercimler",
+          "source_name": "Erol Mütercimler",
+          "title": "Erol Mütercimler - Yüzyılın soygunu #819",
+          "url": "https://www.youtube.com/watch?v=wpDjMXrO9vQ",
+          "kind": "video",
+          "summary_lines": [
+            "Title: \"Yüzyılın soygunu\" (The heist of the century); no transcript available; description is just a Twitter handle and email."
+          ],
+          "why": "A headline-level claim with no supporting facts extractable from the source.",
+          "spicy": false,
+          "published": "2026-09-28T10:36:50+00:00",
+          "image": "//wsrv.nl/?url=https%3A%2F%2Fi4.ytimg.com%2Fvi%2FwpDjMXrO9vQ%2Fhqdefault.jpg&w=560&h=420&fit=cover&output=jpg&default=wsrv.nl/placeholder.svg",
+          "has_transcript": true
+        }
+      ],
+      "picks": [
+        "Banker Kastelli: \"Hiçbir bankanın sorunu yok, tüm mevduatlar teminat altında\" — then warned citizens to move money if Ankara fails",
+        "Andropov allegedly ordered the Pope assassination plot via Bulgaria; Bekir Çelenk and Ağca were used, Çelenk allegedly killed in Bulgaria",
+        "Norway sovereign wealth fund also defrauded, per Mütercimler title — no transcript to verify"
+      ]
+    }
+  ]
+}

@@ -58,6 +58,36 @@
       "cost_usd": 0,
       "avg_accuracy": 0,
       "stories": 364,
+      "sections": 14
+    },
+    {
+      "date": "2026-09-27",
+      "issue": "39",
+      "url": "teskilat-duzen-2026-09-27.html",
+      "lang": "en",
+      "cost_usd": 0,
+      "avg_accuracy": 0,
+      "stories": 293,
+      "sections": 12
+    },
+    {
+      "date": "2026-10-01",
+      "issue": "Issue 6",
+      "url": "teskilat-duzen-2026-10-01.html",
+      "lang": "en",
+      "cost_usd": 0,
+      "avg_accuracy": 0,
+      "stories": 22,
+      "sections": 2
+    },
+    {
+      "date": "2026-10-02",
+      "issue": "Sunday Edition",
+      "url": "teskilat-duzen-2026-10-02.html",
+      "lang": "en",
+      "cost_usd": 0,
+      "avg_accuracy": 0,
+      "stories": 263,
       "sections": 13,
       "current": true
     }
