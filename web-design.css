@@ -689,6 +689,55 @@ html[data-theme="dark"] .search-results li:first-child {
 }
 
 /* ============================ PRINT ============================ */
+/* ==================== NON-TRANSCRIPT VIDEOS ==================== */
+/* Low-key bottom section on source-watch: title, source, date, raw
+   description. No summary, because there is no transcript to summarize. */
+.no-transcript-section {
+  max-width: 980px;
+  margin: 0 auto 3rem;
+  padding: 1.5rem clamp(.75rem, 3vw, 2rem) 0;
+  border-top: 1px solid var(--rule);
+}
+.no-transcript-head { margin-bottom: 1rem; }
+.no-transcript-head h2 {
+  font-size: 1.1rem;
+  margin: .2rem 0 .3rem;
+}
+.no-transcript-note {
+  font-size: .82rem;
+  color: var(--muted);
+  margin: 0;
+}
+.no-transcript-item {
+  padding: .7rem 0;
+  border-top: 1px dashed var(--rule);
+}
+.no-transcript-item:first-of-type { border-top: none; }
+.no-transcript-item h3 {
+  font-size: .98rem;
+  margin: 0 0 .2rem;
+}
+.no-transcript-meta {
+  font-family: var(--mono);
+  font-size: .72rem;
+  color: var(--muted);
+  margin-bottom: .25rem;
+}
+.no-transcript-label {
+  display: inline-block;
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: .62rem;
+  color: var(--gold-text);
+  margin-bottom: .3rem;
+}
+.no-transcript-desc {
+  font-size: .84rem;
+  color: var(--muted);
+  margin: 0;
+}
+
 @media print {
   .sticky-nav, .page-nav, .bottom-bar, .theme-btn, .progress {
     display: none !important;
@@ -696,4 +745,124 @@ html[data-theme="dark"] .search-results li:first-child {
   .card:hover { transform: none; }
   .systems-card:hover { transform: none; }
   body { background: white; color: black; }
+}
+
+/* ==================== UNIFIED OPPORTUNITY BOARD (content v2) ==================== */
+.opp-method-chip {
+  display: inline-block;
+  font-family: var(--sans);
+  font-size: .58rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  padding: .12rem .45rem;
+  border-radius: 2px;
+  border: 1px solid var(--rule);
+  color: var(--muted);
+  background: var(--raise);
+  white-space: nowrap;
+}
+.opp-method-registry { color: var(--gold-text); border-color: var(--gold); }
+.opp-method-radar { color: var(--green); border-color: var(--green); }
+.opp-method-picks { color: var(--red); border-color: var(--red); }
+.opp-section-eyebrow {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .12em;
+  font-size: .62rem;
+  color: var(--muted2);
+}
+.opp-notes {
+  font-size: .85rem;
+  color: var(--muted);
+  margin: 0;
+  line-height: 1.4;
+}
+.opp-domain {
+  font-size: .72rem;
+  color: var(--muted2);
+}
+.opp-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .35rem;
+  align-items: center;
+}
+.opp-toppicks {
+  border: 1px solid var(--rule);
+  background: var(--raise);
+  padding: 1rem;
+}
+.opp-toppick-cluster {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+  margin-top: .6rem;
+  align-items: center;
+}
+.opp-toppick-label {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: .62rem;
+  color: var(--gold-text);
+  font-weight: 700;
+  margin-right: .3rem;
+}
+.opp-toppick {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  border: 1px solid var(--rule);
+  padding: .35rem .6rem;
+  text-decoration: none;
+  color: var(--ink);
+  background: var(--paper);
+  font-size: .82rem;
+}
+.opp-toppick-title { font-weight: 700; }
+
+/* ==================== OPPORTUNITY CHARTS (inline SVG) ==================== */
+.opp-charts {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  margin: 1.5rem 0 2rem;
+}
+@media (min-width: 760px) {
+  .opp-charts { grid-template-columns: 1fr 1fr; }
+}
+.opp-chart {
+  margin: 0;
+  border: 1px solid var(--rule);
+  background: var(--raise);
+  padding: .8rem;
+}
+.opp-chart-title {
+  font-family: var(--sans);
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  font-size: .66rem;
+  color: var(--gold-text);
+  font-weight: 700;
+  margin-bottom: .5rem;
+}
+.opp-chart svg {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.opp-bar { fill: var(--gold); }
+.opp-bar-up { fill: var(--green); }
+.opp-bar-down { fill: var(--red); }
+.opp-chart-axis { stroke: var(--rule); stroke-width: 1; }
+.opp-chart-label {
+  font-family: var(--sans);
+  font-size: 10px;
+  fill: var(--muted);
+}
+.opp-chart-value {
+  font-family: var(--mono);
+  font-size: 10px;
+  fill: var(--ink);
 }
