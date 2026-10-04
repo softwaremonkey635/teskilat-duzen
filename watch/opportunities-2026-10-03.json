@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-03",
+  "generated_at": "2026-10-03T14:09:04.812Z",
+  "new_count": 3,
+  "opportunities": [
+    {
+      "title": "SweepKit – Lightweight macOS menu bar app for Downloads triage (free)",
+      "url": "https://nerdzhub.com/sweepkit",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tools",
+      "status": "new",
+      "notes": "Free macOS utility that helps a student keep Downloads/Desktop organized without paid software.",
+      "score": 52
+    },
+    {
+      "title": "Flormar'dan Öğrencilere Özel 399 TL üzerine %55 İndirim",
+      "url": "https://biogrenci.com/firsat/flormar-ogrenci-indirimi",
+      "value_usd": 5,
+      "expires": "31.10.2026",
+      "section": "personal",
+      "status": "new",
+      "notes": "TR student discount on cosmetics; automatic 55% off over 399 TL until 31.10.2026.",
+      "score": 43
+    },
+    {
+      "title": "Yenilikçi KOBİ'ler İçin Avrupa Ortaklığı (Innowwide) 5. Çağrısı Açıldı",
+      "url": "https://www.tubitak.gov.tr/tr/duyuru/yenilikci-kobiler-icin-avrupa-ortakligi-innowwide-5-cagrisi-acildi",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "grants",
+      "status": "new",
+      "notes": "TÜBİTAK/EU funding call relevant if a student has or is forming an innovative SME/startup.",
+      "score": 64
+    }
+  ]
+}
