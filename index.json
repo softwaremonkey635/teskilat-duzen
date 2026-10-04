@@ -98,7 +98,17 @@
       "cost_usd": 0,
       "avg_accuracy": 0,
       "stories": 359,
-      "sections": 12,
+      "sections": 12
+    },
+    {
+      "date": "2026-10-04",
+      "issue": "Issue 42",
+      "url": "teskilat-duzen-2026-10-04.html",
+      "lang": "en",
+      "cost_usd": 0,
+      "avg_accuracy": 0,
+      "stories": 262,
+      "sections": 11,
       "current": true
     }
   ]

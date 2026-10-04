@@ -1,0 +1,37 @@
+{
+  "date": "2026-10-04",
+  "generated_at": "2026-10-04T14:33:21.207Z",
+  "new_count": 3,
+  "opportunities": [
+    {
+      "title": "Arby's®'ten Tüm Öğrencilere İndirimli Menü!",
+      "url": "https://biogrenci.com/firsat/arbys-ogrenci-indirimi",
+      "value_usd": 5,
+      "expires": "rolling",
+      "section": "personal",
+      "status": "new",
+      "notes": "Türkiye'deki öğrenciler için Arby's'te menü indirim kodu sağlıyor.",
+      "score": 39
+    },
+    {
+      "title": "2247-C Stajyer Araştırmacı Burs Programı (STAR) 2026 Yılı 2. Dönem Proje Yürütücüsü Çağrısı Açıldı",
+      "url": "https://www.tubitak.gov.tr/tr/duyuru/2247-c-stajyer-arastirmaci-burs-programi-star-2026-yili-2-donem-proje-yurutucusu-cagrisi-acildi",
+      "value_usd": 1000,
+      "expires": "rolling",
+      "section": "grants",
+      "status": "new",
+      "notes": "TUBITAK STAR bursu, Türkiye'deki öğrenci araştırmacılar için destek sunuyor.",
+      "score": 68
+    },
+    {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "value_usd": 0,
+      "expires": "rolling",
+      "section": "tools",
+      "status": "new",
+      "notes": "Açık kaynak/ücretsiz model çalıştırma yöntemi, öğrenci geliştiriciler için düşük donanımda LLM deneyi imkânı.",
+      "score": 56
+    }
+  ]
+}
